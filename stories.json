@@ -1,0 +1,578 @@
+[
+ {
+  "id": "benny_share",
+  "title": "Benny Learns to Share 🥕",
+  "theme": "moral",
+  "moral": "Sharing makes everything sweeter.",
+  "lines": [
+   "Benny the bunny found the biggest carrot in the whole forest!",
+   "It was shiny, orange, and almost as big as him.",
+   "His best friend Tiko the squirrel looked at it with hungry eyes.",
+   "\"This carrot is all mine,\" Benny said, hugging it tight.",
+   "But eating alone under the big tree felt very quiet and lonely.",
+   "Benny looked at his carrot, then at his sad little friend.",
+   "He broke the carrot in two and gave Tiko the bigger piece.",
+   "Tiko smiled so wide that his whiskers wiggled.",
+   "Benny learned that sharing makes every snack taste twice as sweet."
+  ],
+  "scenes": [
+   "{benny} holding a giant shiny orange carrot in a sunny magical forest, amazed happy face",
+   "{benny} hugging a giant carrot tightly, a small brown squirrel nearby looking at it with big hungry eyes",
+   "{benny} sitting alone under a big tree with a giant carrot, looking lonely, soft blue evening light",
+   "{benny} giving half of a giant carrot to a happy small brown squirrel, warm golden light",
+   "{benny} and a small brown squirrel laughing and eating carrot together at sunset in the forest"
+  ]
+ },
+ {
+  "id": "am_bismillah",
+  "title": "Adam and Maya Say Bismillah 🍽️",
+  "theme": "islamic",
+  "moral": "Start with Bismillah, and remember Allah in everything.",
+  "lines": [
+   "Adam and Maya were sooo hungry after playing outside.",
+   "Mama put warm pancakes on the table, and they grabbed them fast!",
+   "\"Wait!\" said Grandpa with a smile. \"What do we say before we eat?\"",
+   "Maya thought hard. Then her eyes lit up. \"Bismillah!\"",
+   "Grandpa nodded. \"It means, in the name of Allah.\"",
+   "\"When we say it, we remember that every blessing comes from Him.\"",
+   "Adam and Maya said Bismillah together, and took a big bite.",
+   "\"These are the best pancakes ever!\" Adam laughed.",
+   "Now, they never forget to say Bismillah before they eat."
+  ],
+  "scenes": [
+   "{adam} and {maya} running into a cozy kitchen, hungry and excited, sunny afternoon",
+   "a plate of warm pancakes on the kitchen table, {adam} and {maya} reaching for them quickly",
+   "a kind grandpa with a white beard and a kufi cap smiling at {adam} and {maya} at the table",
+   "{maya} with bright happy eyes raising her finger as if she remembered something, {adam} next to her",
+   "{adam} and {maya} happily eating pancakes with their family at the table, warm golden light"
+  ]
+ },
+ {
+  "id": "lina_star",
+  "title": "Lina and the Fallen Star ⭐",
+  "theme": "adventure",
+  "moral": "Help others shine, and you will shine too.",
+  "lines": [
+   "One night, Lina saw something glowing in her garden.",
+   "It was a tiny star that had fallen from the sky!",
+   "\"I'm lost,\" the little star said. \"I can't get back home.\"",
+   "Lina wanted to keep the star forever. It was so pretty!",
+   "But she saw how much the star missed the sky.",
+   "So Lina climbed to the top of the hill, holding the star gently.",
+   "She lifted her arms high, and the star floated up, up, up.",
+   "That night, one star twinkled brighter than all the others, just for her.",
+   "When you help others shine, your heart shines too."
+  ],
+  "scenes": [
+   "{lina} in pajamas looking at a glowing light in a magical garden at night",
+   "{lina} holding a tiny glowing cute star with a little face in her hands, sparkles",
+   "{lina} looking at the tiny star in her hands with a thoughtful face, night sky above",
+   "{lina} climbing a grassy hill at night holding a glowing star, fireflies around",
+   "{lina} on a hilltop watching a star float up into a beautiful starry sky, magical glow"
+  ]
+ },
+ {
+  "id": "benny_bird",
+  "title": "Benny Saves a Baby Bird 🐦",
+  "theme": "adventure",
+  "moral": "Kindness is a superpower.",
+  "lines": [
+   "One windy morning, Benny heard a tiny cheep cheep in the grass.",
+   "A baby bird had fallen out of its nest, high up in the old oak tree.",
+   "\"Don't worry, little one,\" Benny whispered. \"I will help you.\"",
+   "But bunnies can't climb trees. What could he do?",
+   "Benny ran to his friend Bruno the bear and asked for help.",
+   "Bruno lifted Benny up, higher and higher, all the way to the nest.",
+   "Benny gently placed the baby bird next to its mommy.",
+   "The mommy bird sang the happiest song in the whole forest.",
+   "Benny smiled. Even small friends can do big, kind things."
+  ],
+  "scenes": [
+   "{benny} in tall green grass looking down at a tiny fluffy baby bird, windy morning, leaves flying",
+   "{benny} looking up at a bird nest high in a huge old oak tree, the tiny baby bird in his paws",
+   "{benny} talking to a big friendly brown bear in the forest, the baby bird in his paws",
+   "a big friendly brown bear lifting {benny} up high toward a bird nest in an oak tree",
+   "{benny} smiling proudly as a mother bird and her baby sing in their nest, bright happy sunshine"
+  ]
+ },
+ {
+  "id": "am_iftar",
+  "title": "The Ramadan Surprise 🌙",
+  "theme": "islamic",
+  "moral": "Sharing food makes Ramadan even more special.",
+  "lines": [
+   "It was Ramadan, and the house smelled of soup and dates.",
+   "Adam looked out the window at their old neighbor, Uncle Yusuf.",
+   "\"He lives all alone,\" Adam said. \"Who will he break his fast with?\"",
+   "Maya had an idea. \"Let's bring him iftar!\"",
+   "They filled a plate with dates, soup and warm bread.",
+   "When Uncle Yusuf opened the door, his eyes filled with happy tears.",
+   "\"May Allah bless you,\" he said. \"You made my day so bright.\"",
+   "That night, Uncle Yusuf broke his fast with the whole family.",
+   "Adam and Maya learned that sharing is the true joy of Ramadan."
+  ],
+  "scenes": [
+   "a cozy home decorated with Ramadan lanterns and a crescent moon outside, {adam} and {maya} in the kitchen",
+   "{adam} looking out the window at an old man sitting alone on his porch, evening",
+   "{maya} with an excited idea face talking to {adam}, Ramadan lanterns glowing",
+   "{adam} and {maya} holding a plate of dates, soup and bread at the door of a smiling old man with a grey beard",
+   "a big happy family iftar table with an old neighbor, {adam} and {maya}, lanterns and crescent moon"
+  ]
+ },
+ {
+  "id": "lina_newgirl",
+  "title": "The New Girl at School 🎒",
+  "theme": "moral",
+  "moral": "Everyone needs a friend. Be the first to say hello.",
+  "lines": [
+   "A new girl named Sara came to Lina's class.",
+   "She sat alone at lunch, looking down at her sandwich.",
+   "The other kids didn't talk to her. Sara looked very sad.",
+   "Lina remembered how scary her own first day was.",
+   "She walked over and said, \"Hi! Do you want to sit with me?\"",
+   "Sara's face lit up like the sun.",
+   "They shared cookies and found out they both loved painting.",
+   "Soon, Sara and Lina were the best of friends.",
+   "One small hello can change someone's whole day."
+  ],
+  "scenes": [
+   "{lina} in a bright colorful classroom looking at a shy new girl with short curly hair at the door",
+   "a shy girl with short curly hair sitting alone at a lunch table in a school cafeteria",
+   "{lina} remembering, thoughtful face, school cafeteria background",
+   "{lina} smiling and waving hello to a shy girl with short curly hair at a lunch table",
+   "{lina} and a girl with short curly hair painting together happily, colorful paint, best friends"
+  ]
+ },
+ {
+  "id": "benny_dark",
+  "title": "Benny Is Afraid of the Dark 🌙",
+  "theme": "moral",
+  "moral": "Being brave means trying, even when you feel scared.",
+  "lines": [
+   "Every night, Benny pulled his blanket over his long, floppy ears.",
+   "\"The dark is too scary,\" he whispered. \"Something is out there!\"",
+   "One night, he heard a strange sound. Hoo... hoo...",
+   "Benny's heart beat fast, but he decided to be brave and peek outside.",
+   "It was only Olivia the owl, sitting on a branch!",
+   "\"The night is full of friends,\" Olivia said with a gentle smile.",
+   "She showed Benny the twinkling stars and the glowing fireflies.",
+   "The dark wasn't scary at all. It was beautiful!",
+   "From that night on, Benny slept with a smile, dreaming of stars."
+  ],
+  "scenes": [
+   "{benny} hiding under a blanket in a cozy burrow bedroom at night, only his eyes showing, a little scared",
+   "{benny} peeking nervously out of a round burrow door into the dark night forest",
+   "{benny} meeting a cute wise owl with big round glasses sitting on a branch in the moonlight",
+   "{benny} and a cute owl looking up at a sky full of twinkling stars and glowing fireflies, magical night",
+   "{benny} sleeping peacefully with a smile in his cozy bed, soft moonlight through the window"
+  ]
+ },
+ {
+  "id": "am_mom",
+  "title": "Helping Mama 🧺",
+  "theme": "islamic",
+  "moral": "Being kind to our parents is one of the best deeds.",
+  "lines": [
+   "Mama was very tired. She had cooked, cleaned, and washed all day.",
+   "Adam and Maya were playing with their toys on the floor.",
+   "Maya saw Mama rubbing her back and sighing softly.",
+   "\"Adam,\" she whispered, \"let's help Mama!\"",
+   "Adam folded the clothes. Maya set the table with tiny careful hands.",
+   "They even made Mama a cup of warm mint tea.",
+   "Mama hugged them both. \"You are my little helpers!\"",
+   "In Islam, being kind to our parents is one of the best things we can do.",
+   "And helping Mama made Adam and Maya feel happy inside."
+  ],
+  "scenes": [
+   "a tired mother in a headscarf doing laundry in a cozy home, {adam} and {maya} playing with toys in the background",
+   "{maya} noticing her tired mother, concerned face",
+   "{adam} and {maya} whispering a plan to each other, excited faces",
+   "{adam} folding clothes and {maya} carefully setting plates on a table",
+   "a happy mother in a headscarf hugging {adam} and {maya}, a cup of mint tea on the table, warm light"
+  ]
+ },
+ {
+  "id": "lina_bike",
+  "title": "Lina Learns to Ride a Bike 🚲",
+  "theme": "moral",
+  "moral": "Never give up. Every fall makes you stronger.",
+  "lines": [
+   "Lina got a shiny pink bike for her birthday!",
+   "She hopped on, pushed the pedals, and... boom! She fell.",
+   "She tried again. Wobble, wobble... boom!",
+   "\"I can't do it!\" Lina cried, rubbing her knee.",
+   "Papa knelt down. \"Every great rider fell many times. Try once more.\"",
+   "Lina took a deep breath and pushed the pedals again.",
+   "Wobble... wobble... and then... she was riding!",
+   "The wind blew through her hair as she laughed and laughed.",
+   "Lina learned that you only fail when you stop trying."
+  ],
+  "scenes": [
+   "{lina} excited next to a shiny pink bike with a bow, sunny park",
+   "{lina} falling off a pink bike on a park path, funny but safe",
+   "{lina} sitting on the grass rubbing her knee, sad face, pink bike beside her",
+   "a kind father kneeling and encouraging {lina} next to her pink bike",
+   "{lina} happily riding a pink bike through a sunny park, hair flying in the wind"
+  ]
+ },
+ {
+  "id": "benny_seed",
+  "title": "Benny Plants a Magic Seed 🌱",
+  "theme": "moral",
+  "moral": "Good things take time. Be patient.",
+  "lines": [
+   "Grandma Bunny gave Benny a tiny seed. \"Plant it, and wait,\" she said.",
+   "Benny planted it, watered it, and stared at the ground.",
+   "Nothing happened. \"Grow faster!\" he shouted.",
+   "The next day, still nothing. Benny almost gave up.",
+   "But he kept watering it every single morning.",
+   "One day, a little green sprout popped out of the soil!",
+   "Then it grew, and grew, into a giant sunflower taller than his house.",
+   "\"You were patient,\" Grandma Bunny smiled. \"And look what you got.\"",
+   "Benny learned that the best things need time to grow."
+  ],
+  "scenes": [
+   "a kind old grandma bunny with glasses giving a tiny glowing seed to {benny} in a garden",
+   "{benny} kneeling and watering a small patch of soil with a tiny watering can, impatient face",
+   "{benny} with arms crossed looking grumpy at an empty patch of soil, cloudy day",
+   "{benny} amazed at a tiny green sprout coming out of the soil, sparkling morning light",
+   "{benny} and a grandma bunny looking up at a giant golden sunflower taller than their house, sunny sky"
+  ]
+ },
+ {
+  "id": "am_smile",
+  "title": "A Smile Is a Gift 😊",
+  "theme": "islamic",
+  "moral": "Smiling at others is a kind of charity.",
+  "lines": [
+   "Maya wanted to give charity, but she had no money.",
+   "\"I have nothing to give,\" she said sadly.",
+   "Adam smiled. \"You have something better. Your smile!\"",
+   "\"Our Prophet Muhammad, peace be upon him, taught that a smile is charity.\"",
+   "So Maya smiled at the old baker. He smiled back!",
+   "She smiled at the mailman, and he waved happily.",
+   "She smiled at a sad little boy, and he started to giggle.",
+   "Soon, the whole street was full of smiles.",
+   "Maya learned that a smile is a gift anyone can give."
+  ],
+  "scenes": [
+   "{maya} looking at an empty piggy bank sadly in her bedroom",
+   "{adam} kindly talking to {maya} in a bright living room, pointing at her face",
+   "{maya} smiling at a friendly old baker with a mustache in front of his bakery",
+   "{maya} smiling at a sad little boy on a bench, and the boy starting to giggle",
+   "a colorful happy street full of smiling people, {maya} and {adam} walking hand in hand, sunny day"
+  ]
+ },
+ {
+  "id": "lina_dua",
+  "title": "Lina's Bedtime Dua 🌙",
+  "theme": "islamic",
+  "moral": "When we remember Allah, our hearts feel safe.",
+  "lines": [
+   "Lina couldn't sleep. The wind made spooky sounds outside.",
+   "\"Mama, I'm scared,\" she whispered.",
+   "Mama sat on her bed and stroked her hair.",
+   "\"When you feel scared, remember Allah. He is always with you.\"",
+   "\"Let's say our bedtime dua together.\"",
+   "Lina closed her eyes and said, \"Bismika Allahumma amutu wa ahya.\"",
+   "It means, in Your name, O Allah, I die and I live.",
+   "Lina felt warm and safe, like a soft blanket covered her heart.",
+   "Soon, she was sleeping peacefully, with a little smile."
+  ],
+  "scenes": [
+   "{lina} in bed hugging her pillow, windy night outside the window, a little scared",
+   "{lina} calling her mother from bed, soft night light",
+   "a loving mother in a headscarf sitting on {lina}'s bed, stroking her hair",
+   "{lina} with eyes closed raising small hands in prayer in bed, soft golden glow around her",
+   "{lina} sleeping peacefully with a smile, moon and stars outside the window, cozy bedroom"
+  ]
+ },
+ {
+  "id": "benny_sorry",
+  "title": "Benny Says Sorry 💛",
+  "theme": "moral",
+  "moral": "Saying sorry can fix a broken friendship.",
+  "lines": [
+   "Benny and Tiko were building the tallest tower of acorns ever.",
+   "But Benny bumped it, and the tower crashed down!",
+   "\"It wasn't me!\" Benny said quickly, and ran away.",
+   "Tiko sat alone, trying to build it again, with a sad face.",
+   "Benny felt a heavy, yucky feeling in his tummy.",
+   "He walked back slowly and said, \"I'm sorry, Tiko. It was me.\"",
+   "Tiko smiled. \"Thank you for telling the truth. Let's build it together!\"",
+   "This time, their tower was even taller than before.",
+   "Saying sorry is hard, but it makes friendships stronger."
+  ],
+  "scenes": [
+   "{benny} and a small brown squirrel building a tall tower of acorns in a sunny forest clearing",
+   "{benny} accidentally knocking over a tower of acorns, acorns flying everywhere, surprised face",
+   "a small brown squirrel sitting sadly next to a pile of fallen acorns, {benny} running away in the background",
+   "{benny} walking back shyly with ears down, saying sorry to a small brown squirrel",
+   "{benny} and a small brown squirrel happily cheering next to a very tall acorn tower, golden light"
+  ]
+ },
+ {
+  "id": "am_kitten",
+  "title": "The Thirsty Kitten 🐱",
+  "theme": "islamic",
+  "moral": "Allah loves those who are kind to animals.",
+  "lines": [
+   "On a very hot day, Adam and Maya heard a weak little meow.",
+   "Under a car, a tiny kitten was shaking. It looked so thirsty.",
+   "\"Poor kitty,\" Maya said. \"We have to help!\"",
+   "Adam ran home and brought a bowl of cool water.",
+   "The kitten drank and drank, lapping up every drop.",
+   "Then it purred and rubbed its head on Maya's hand.",
+   "Mama said, \"Islam teaches us to be merciful to every living creature.\"",
+   "Adam and Maya named the kitten Sunny and gave her a cozy home.",
+   "Being kind to animals makes the whole world softer."
+  ],
+  "scenes": [
+   "{adam} and {maya} on a hot sunny street, hearing a sound, curious faces",
+   "a tiny thirsty orange kitten hiding under a car, {maya} kneeling to look at it",
+   "{adam} running carefully with a bowl of water",
+   "a tiny orange kitten drinking from a bowl of water, {maya} smiling gently next to it",
+   "{adam} and {maya} cuddling a happy orange kitten on a cozy sofa at home"
+  ]
+ },
+ {
+  "id": "lina_neighbor",
+  "title": "The Grumpy Neighbor 🌻",
+  "theme": "moral",
+  "moral": "Kindness can melt even the grumpiest heart.",
+  "lines": [
+   "Mr. Omar was the grumpiest neighbor on the whole street.",
+   "He never smiled, and he always said, \"Go away!\"",
+   "One day, Lina saw his garden. All the flowers were dry and sad.",
+   "So every morning, Lina quietly watered his flowers.",
+   "Days later, the garden bloomed with bright yellow sunflowers.",
+   "Mr. Omar opened the door and saw Lina with her watering can.",
+   "\"It was you?\" he asked. And for the first time... he smiled!",
+   "Now Mr. Omar waves every day and gives Lina sunflower seeds.",
+   "Kindness can make even the grumpiest heart bloom."
+  ],
+  "scenes": [
+   "a grumpy old man with a big mustache standing at his door, {lina} watching from the street",
+   "a grumpy old man pointing and saying go away, funny cartoon style",
+   "{lina} looking at a dry sad garden with wilted flowers",
+   "{lina} secretly watering flowers in an old man's garden in the early morning",
+   "a smiling old man with a big mustache and {lina} in a garden full of bright yellow sunflowers"
+  ]
+ },
+ {
+  "id": "benny_river",
+  "title": "Benny Doesn't Listen 🌊",
+  "theme": "adventure",
+  "moral": "Listen to your parents. They want to keep you safe.",
+  "lines": [
+   "\"Don't go near the river today,\" Mommy Bunny said. \"It's too strong.\"",
+   "But Benny wanted to see the shiny water. Just for one minute!",
+   "He hopped to the river and leaned over the edge.",
+   "Splash! The bank was slippery, and Benny slid toward the water!",
+   "He grabbed a strong root and shouted, \"Help! Mommy!\"",
+   "Mommy Bunny came running and pulled him to safety.",
+   "Benny hugged her tight, shaking and wet.",
+   "\"I'm sorry I didn't listen,\" he said softly.",
+   "Mommy kissed his nose. Rules are there because we love you."
+  ],
+  "scenes": [
+   "a mother bunny with an apron gently warning {benny} at the door of their cozy home",
+   "{benny} sneaking through the forest toward a sparkling river, curious face",
+   "{benny} slipping on a muddy riverbank toward fast blue water, surprised face, splashes",
+   "a mother bunny pulling {benny} out of the river by his paw, dramatic but safe",
+   "{benny} wet and hugging his mother bunny tightly at home by a warm fireplace"
+  ]
+ },
+ {
+  "id": "am_vase",
+  "title": "The Broken Vase 🏺",
+  "theme": "moral",
+  "moral": "Honesty is always the right choice.",
+  "lines": [
+   "Adam was playing ball inside the house. Bounce, bounce... crash!",
+   "Mama's favorite blue vase broke into pieces.",
+   "Adam froze. Maya gasped. \"Uh oh!\"",
+   "Adam wanted to hide the pieces under the sofa.",
+   "But Maya said, \"Hiding the truth won't fix it.\"",
+   "When Mama came home, Adam said, \"Mama, I broke the vase. I'm sorry.\"",
+   "Mama was sad about the vase, but proud of Adam.",
+   "\"A vase can be replaced,\" she said. \"But your honesty is precious.\"",
+   "Adam felt so light, like a balloon floating in the sky."
+  ],
+  "scenes": [
+   "{adam} bouncing a ball inside a cozy living room, a blue vase on a shelf behind him",
+   "a blue vase breaking into pieces on the floor, {adam} and {maya} shocked",
+   "{adam} nervously trying to push vase pieces under the sofa",
+   "{adam} looking honest and sorry in front of his mother in a headscarf, {maya} beside him",
+   "a mother in a headscarf hugging {adam} proudly, warm soft light"
+  ]
+ },
+ {
+  "id": "lina_rainbow",
+  "title": "Lina's Rainbow Painting 🎨",
+  "theme": "adventure",
+  "moral": "Mistakes can become something beautiful.",
+  "lines": [
+   "Lina was painting a picture for the school art contest.",
+   "But oops! She spilled blue paint all over it!",
+   "\"It's ruined!\" she cried. The contest was tomorrow.",
+   "Then she looked closer. The spill looked like a big blue sky.",
+   "Lina smiled and grabbed her brushes.",
+   "She added a sun, birds, and a giant colorful rainbow.",
+   "It became the most beautiful painting she had ever made!",
+   "At the contest, everyone gathered around to see it.",
+   "Sometimes, a mistake is just the beginning of something amazing."
+  ],
+  "scenes": [
+   "{lina} painting at a little easel in her sunny room, paint everywhere",
+   "{lina} accidentally spilling blue paint on her painting, shocked face",
+   "{lina} sad, looking at a painting covered in blue paint",
+   "{lina} happily painting a rainbow and sun on her painting, creative sparkles",
+   "{lina} proudly showing a beautiful rainbow painting at a school art show, kids admiring it"
+  ]
+ },
+ {
+  "id": "benny_rock",
+  "title": "The Giant Rock 🪨",
+  "theme": "adventure",
+  "moral": "Together we are stronger.",
+  "lines": [
+   "A giant rock rolled onto the forest path. Nobody could pass!",
+   "Benny pushed it. It didn't move.",
+   "Tiko the squirrel pushed it. It didn't move.",
+   "Even little Turtle Toby tried, slowly, slowly. Still nothing.",
+   "Then Benny had an idea. \"Let's push together!\"",
+   "One, two, three... push!",
+   "The rock began to roll, and rolled right off the path!",
+   "All the animals cheered and danced in a big happy circle.",
+   "When we work together, nothing is too big for us."
+  ],
+  "scenes": [
+   "a giant round rock blocking a forest path, {benny} looking at it surprised",
+   "{benny} pushing a giant rock with all his strength, cheeks puffed",
+   "{benny}, a small brown squirrel and a cute little turtle looking tired next to a giant rock",
+   "{benny}, a small brown squirrel and a cute little turtle all pushing a giant rock together",
+   "forest animals with {benny} cheering and dancing in a circle on a clear forest path, confetti of leaves"
+  ]
+ },
+ {
+  "id": "am_thankful",
+  "title": "Alhamdulillah for Everything 🌈",
+  "theme": "islamic",
+  "moral": "Being thankful makes us happy.",
+  "lines": [
+   "Adam woke up grumpy. \"It's raining! I can't play outside!\"",
+   "Maya looked out the window and said, \"Alhamdulillah for the rain!\"",
+   "\"Why are you thankful?\" Adam asked.",
+   "\"The rain waters the flowers and gives us water to drink!\"",
+   "Adam thought. \"Alhamdulillah for my warm blanket too.\"",
+   "\"And for Mama's soup, and for our family!\" Maya giggled.",
+   "They made a list of everything they were thankful for.",
+   "Then, the rain stopped, and a giant rainbow appeared in the sky!",
+   "When we say Alhamdulillah, we see blessings everywhere."
+  ],
+  "scenes": [
+   "{adam} with a grumpy face looking at rain through a window, cozy bedroom",
+   "{maya} happily looking out a rainy window, raindrops on the glass",
+   "{adam} and {maya} sitting on a bed wrapped in a warm blanket, talking",
+   "{adam} and {maya} drawing a list with crayons on paper, happy faces",
+   "{adam} and {maya} running outside toward a giant bright rainbow after the rain"
+  ]
+ },
+ {
+  "id": "lina_water",
+  "title": "Don't Waste the Water 💧",
+  "theme": "islamic",
+  "moral": "Islam teaches us not to waste, even a little.",
+  "lines": [
+   "Lina loved brushing her teeth with the water running... and running.",
+   "One day, Grandma gently turned off the tap.",
+   "\"Lina, do you know how precious water is?\" she asked.",
+   "\"Some children walk very far just to get one bucket of water.\"",
+   "\"Allah says in the Quran: eat and drink, but do not waste.\"",
+   "Lina's eyes grew big. She had never thought about that.",
+   "From then on, she turned off the tap while brushing.",
+   "She even put a little sign on the mirror: Save Water!",
+   "Small habits can make a big difference for the world."
+  ],
+  "scenes": [
+   "{lina} brushing her teeth in a bathroom with the tap running, water flowing",
+   "a kind grandma in a headscarf gently turning off the bathroom tap, {lina} looking up at her",
+   "{lina} imagining children walking far with buckets of water in a dry land, dreamy bubble",
+   "{lina} with big surprised thoughtful eyes in the bathroom",
+   "{lina} proudly putting a cute save water sign on a bathroom mirror, tap turned off"
+  ]
+ },
+ {
+  "id": "benny_cake",
+  "title": "Who Ate the Cake? 🍰",
+  "theme": "moral",
+  "moral": "Always tell the truth, even when it's hard.",
+  "lines": [
+   "Mommy Bunny baked a carrot cake for Grandma's birthday.",
+   "\"Don't touch it,\" she said. \"It's for tonight.\"",
+   "But it smelled sooo good. Benny took just one tiny bite.",
+   "Then another... and another... until half the cake was gone!",
+   "\"Who ate the cake?\" Mommy asked, looking at the crumbs.",
+   "Benny's face was covered in frosting. He wanted to blame the cat.",
+   "But he took a deep breath and said, \"It was me. I'm sorry.\"",
+   "Mommy smiled. \"Thank you for being honest. Let's bake a new one together.\"",
+   "Telling the truth always makes your heart feel lighter."
+  ],
+  "scenes": [
+   "a mother bunny proudly holding a carrot cake in a cozy kitchen, {benny} looking at it with big eyes",
+   "{benny} sneaking a tiny bite of a carrot cake on the kitchen table",
+   "{benny} with frosting on his face next to a half eaten carrot cake, crumbs everywhere, guilty face",
+   "{benny} looking honest and sorry in front of his mother bunny in the kitchen",
+   "{benny} and his mother bunny happily baking a new cake together, flour in the air, warm light"
+  ]
+ },
+ {
+  "id": "am_treasure",
+  "title": "The Secret Treasure Map 🗺️",
+  "theme": "adventure",
+  "moral": "Family is the greatest treasure.",
+  "lines": [
+   "In Grandpa's attic, Adam and Maya found an old treasure map!",
+   "A big red X was drawn under the old fig tree.",
+   "They grabbed a little shovel and ran outside.",
+   "They dug and dug, until... clunk! A wooden box!",
+   "Inside, there was no gold. Just old photos and a letter.",
+   "The letter said, \"My real treasure is my family. Love, Grandpa.\"",
+   "The photos showed Grandpa as a little boy, smiling with his family.",
+   "Adam and Maya ran to give Grandpa the biggest hug ever.",
+   "Some treasures can't be bought. They are the people we love."
+  ],
+  "scenes": [
+   "{adam} and {maya} discovering an old treasure map in a dusty attic, light rays through the window",
+   "an old treasure map with a red X under a big fig tree, {adam} and {maya} looking at it excitedly",
+   "{adam} and {maya} digging under a big fig tree with a small shovel, sunny garden",
+   "{adam} and {maya} opening an old wooden box full of old photos and a letter",
+   "{adam} and {maya} hugging a kind grandpa with a white beard in the garden, golden sunset"
+  ]
+ },
+ {
+  "id": "am_clean",
+  "title": "Clean Room Challenge 🧸",
+  "theme": "islamic",
+  "moral": "Islam teaches us that cleanliness is part of faith.",
+  "lines": [
+   "Adam and Maya's room looked like a toy tornado had passed through!",
+   "Socks on the lamp. Blocks on the bed. Crayons everywhere!",
+   "\"I can't find my teddy bear!\" Maya cried.",
+   "Papa smiled. \"Islam teaches us that cleanliness is part of faith.\"",
+   "\"Let's make it a challenge. Who can clean the fastest?\"",
+   "Adam picked up blocks. Maya folded clothes. Zoom, zoom!",
+   "Under the last pile of clothes... there was Teddy!",
+   "Their room sparkled, and Papa gave them a big high five.",
+   "A clean room makes a happy heart."
+  ],
+  "scenes": [
+   "a very messy kids bedroom with toys, socks and crayons everywhere, {adam} and {maya} in the middle",
+   "a sock hanging on a lamp and blocks on the bed in a messy kids room, funny scene",
+   "{maya} looking worried searching for her teddy bear in the mess",
+   "{adam} and {maya} cleaning their room very fast, toys flying into a toy box, fun action",
+   "{adam} and {maya} high fiving their smiling father in a sparkling clean room, {maya} hugging a teddy bear"
+  ]
+ }
+]

@@ -1,49 +1,48 @@
 {
-  "voice": "ar-SA-HamedNeural",
-  "voice_rate": "-12%",
-  "pause_between_lines": 0.45,
+  "content_file": "stories.json",
+
+  "voice": "en-US-JennyNeural",
+  "voice_rate": "-8%",
+  "pause_between_lines": 0.35,
   "outro_seconds": 2.5,
-  "outro_text": "شاركها لعلها تكون صدقة جارية لك",
-  "images_per_video": 4,
+  "outro_text": "Subscribe for a new story every day!",
+  "zoom": 0.10,
 
-  "character": "a young Arab woman with long dark wavy hair and big expressive brown eyes, wearing a cozy beige knit sweater and red plaid pajama pants",
-  "style": "3D animated movie style, cute stylized character, soft cinematic lighting, warm colors, highly detailed, vertical 9:16 composition, character centered, no text, no letters, no watermark",
+  "subtitles": {
+    "font": "DejaVu Sans",
+    "size": 74,
+    "title_size": 64,
+    "alignment": 2,
+    "margin_v": 420,
+    "show_title": true
+  },
 
-  "scenes": [
-    "sitting on a sofa in a cozy living room at night, warm lamp light, big window with city lights behind her",
-    "sitting on her bed in a cozy bedroom at night, rain drops on the window, fairy lights",
-    "sitting on a prayer rug in a softly lit room, a glowing lantern next to her",
-    "sitting on a balcony at night under a starry sky, crescent moon, soft breeze"
-  ],
+  "characters": {
+    "benny": "a small fluffy white bunny with big shiny blue eyes, long floppy ears and a tiny red scarf",
+    "adam": "a cute 7 year old boy with short curly black hair, big brown eyes and a green t-shirt",
+    "maya": "a cute 5 year old girl with two puffy black pigtails, big brown eyes and a yellow dress",
+    "lina": "a cute 8 year old girl with long dark wavy hair, big brown eyes and a cozy beige sweater"
+  },
+  "style": "3D animated kids movie style, adorable stylized characters, bright cheerful colors, soft warm lighting, highly detailed, vertical 9:16 composition, no text, no letters, no watermark",
 
-  "moods": {
-    "protection": [
-      "looking worried and scared, hand on her chest, a dark shadowy creature with glowing eyes lurking behind her",
-      "eyes closed, whispering a prayer, soft golden light starting to glow from her heart, the shadow creature behind her",
-      "a bright burst of golden light shining from her heart, the shadow creature behind her fading away",
-      "peaceful gentle smile, hands together, surrounded by a soft transparent glowing protective bubble of light"
-    ],
-    "relief": [
-      "looking sad and tired, hand on her chest, dim lighting",
-      "eyes closed, whispering a prayer, soft golden light around her",
-      "a warm glow of light coming from her heart, small flowers blooming around her",
-      "peaceful happy smile, warm golden light, calm and relieved"
-    ],
-    "hope": [
-      "looking thoughtful, looking up at the sky",
-      "eyes closed, raising her hands in prayer, soft light falling on her face",
-      "gentle golden light particles floating around her",
-      "bright hopeful smile, warm sunrise light"
-    ]
+  "story_ai": {
+    "model": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "themes": ["sharing", "honesty", "kindness", "courage", "patience", "gratitude", "helping parents", "friendship", "teamwork", "saying sorry", "being kind to animals", "not giving up", "Islamic manners for kids (saying Bismillah, Alhamdulillah, being kind, giving charity)", "a fun adventure with a lesson"],
+    "banned_words": ["kill", "blood", "die ", "dead", "gun", "weapon", "kiss", "boyfriend", "girlfriend", "scary monster", "devil", "prophet muhammad looked", "the prophet's face"],
+    "system": "You write short, warm, original bedtime stories for children aged 3 to 8. Stories are gentle, positive, safe for young kids, and always teach one clear good lesson. Never include violence, romance, scary content, brands or real people. Never describe or depict any prophet. Reply with JSON only.",
+    "prompt": "Write a NEW children's story about: {theme}.\nUse one or two of these recurring characters (refer to them in scenes ONLY with these exact placeholders): {characters}. Their names: benny = Benny the bunny, adam = Adam (boy), maya = Maya (his little sister), lina = Lina (girl).\nDo not repeat these existing titles: {used}\nRules: 8 to 10 short narration sentences (max 16 words each), simple English, the first sentence must be an exciting hook, the last sentence states the lesson. Exactly 5 scenes: visual image descriptions in order, each one containing at least one placeholder like {{benny}}, no text in images.\nReturn JSON: {{\"title\": \"Short catchy title with one emoji\", \"moral\": \"one sentence\", \"theme\": \"moral|islamic|adventure\", \"lines\": [...], \"scenes\": [...]}}"
   },
 
   "image_providers": ["cloudflare", "pollinations"],
 
   "youtube": {
     "privacy": "public",
-    "category_id": "22",
-    "made_for_kids": false,
+    "category_id": "1",
+    "made_for_kids": true,
     "contains_synthetic_media": false,
-    "hashtags": ["#shorts", "#دعاء", "#اذكار", "#رقية_شرعية", "#اسلام"]
+    "title_template": "{title} | Kids Story #shorts",
+    "description_template": "{title}\n\n{story}\n\n✨ Lesson: {moral}\n\n{outro}\n\n{hashtags}",
+    "tags": ["kids stories", "bedtime stories", "moral stories", "stories for kids", "cartoon", "storytime", "shorts"],
+    "hashtags": ["#shorts", "#kidsstories", "#bedtimestories", "#moralstories", "#storytime"]
   }
 }
