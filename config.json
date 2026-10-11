@@ -1,0 +1,49 @@
+{
+  "voice": "ar-SA-HamedNeural",
+  "voice_rate": "-12%",
+  "pause_between_lines": 0.45,
+  "outro_seconds": 2.5,
+  "outro_text": "شاركها لعلها تكون صدقة جارية لك",
+  "images_per_video": 4,
+
+  "character": "a young Arab woman with long dark wavy hair and big expressive brown eyes, wearing a cozy beige knit sweater and red plaid pajama pants",
+  "style": "3D animated movie style, cute stylized character, soft cinematic lighting, warm colors, highly detailed, vertical 9:16 composition, character centered, no text, no letters, no watermark",
+
+  "scenes": [
+    "sitting on a sofa in a cozy living room at night, warm lamp light, big window with city lights behind her",
+    "sitting on her bed in a cozy bedroom at night, rain drops on the window, fairy lights",
+    "sitting on a prayer rug in a softly lit room, a glowing lantern next to her",
+    "sitting on a balcony at night under a starry sky, crescent moon, soft breeze"
+  ],
+
+  "moods": {
+    "protection": [
+      "looking worried and scared, hand on her chest, a dark shadowy creature with glowing eyes lurking behind her",
+      "eyes closed, whispering a prayer, soft golden light starting to glow from her heart, the shadow creature behind her",
+      "a bright burst of golden light shining from her heart, the shadow creature behind her fading away",
+      "peaceful gentle smile, hands together, surrounded by a soft transparent glowing protective bubble of light"
+    ],
+    "relief": [
+      "looking sad and tired, hand on her chest, dim lighting",
+      "eyes closed, whispering a prayer, soft golden light around her",
+      "a warm glow of light coming from her heart, small flowers blooming around her",
+      "peaceful happy smile, warm golden light, calm and relieved"
+    ],
+    "hope": [
+      "looking thoughtful, looking up at the sky",
+      "eyes closed, raising her hands in prayer, soft light falling on her face",
+      "gentle golden light particles floating around her",
+      "bright hopeful smile, warm sunrise light"
+    ]
+  },
+
+  "image_providers": ["cloudflare", "pollinations"],
+
+  "youtube": {
+    "privacy": "public",
+    "category_id": "22",
+    "made_for_kids": false,
+    "contains_synthetic_media": false,
+    "hashtags": ["#shorts", "#دعاء", "#اذكار", "#رقية_شرعية", "#اسلام"]
+  }
+}
