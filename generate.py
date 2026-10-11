@@ -126,7 +126,7 @@ def img_cloudflare(prompt, seed, path):
     import requests
     url = f"https://api.cloudflare.com/client/v4/accounts/{acct}/ai/run/@cf/black-forest-labs/flux-1-schnell"
     r = requests.post(url, headers={"Authorization": f"Bearer {token}"},
-                      json={"prompt": prompt, "steps": 6, "seed": seed}, timeout=120)
+                      json={"prompt": prompt, "steps": 6}, timeout=120)
     if r.status_code != 200:
         print("cloudflare:", r.status_code, r.text[:200]); return False
     path.write_bytes(base64.b64decode(r.json()["result"]["image"]))
