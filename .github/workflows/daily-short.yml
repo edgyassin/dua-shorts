@@ -1,0 +1,62 @@
+name: Daily dua short
+
+on:
+  schedule:
+    # 3 shorts per day (times in UTC; Dubai = UTC+4)
+    - cron: "7 4 * * *"      # 08:07 Dubai
+    - cron: "7 10 * * *"     # 14:07 Dubai
+    - cron: "7 16 * * *"     # 20:07 Dubai
+  workflow_dispatch: {}       # "Run workflow" button for manual tests
+
+permissions:
+  contents: write
+
+concurrency: daily-short
+
+jobs:
+  make-and-upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install ffmpeg + Arabic font
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-hosny-amiri fonts-noto-color-emoji
+
+      - name: Install Python deps
+        run: pip install -q -r requirements.txt
+
+      - name: Generate video
+        env:
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          POLLINATIONS_TOKEN: ${{ secrets.POLLINATIONS_TOKEN }}
+        run: python generate.py
+
+      - name: Keep a copy of the video (Actions > run > Artifacts)
+        uses: actions/upload-artifact@v4
+        with:
+          name: short-${{ github.run_number }}
+          path: |
+            out/short.mp4
+            out/meta.json
+          retention-days: 7
+
+      - name: Upload to YouTube
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: python upload.py
+
+      - name: Save progress (which dua is next)
+        run: |
+          git config user.name "shorts-bot"
+          git config user.email "shorts-bot@users.noreply.github.com"
+          git add state.json
+          git commit -m "posted $(jq -r .dhikr_id out/meta.json)" || exit 0
+          git push
