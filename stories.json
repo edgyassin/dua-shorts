@@ -574,5 +574,29 @@
    "{adam} and {maya} cleaning their room very fast, toys flying into a toy box, fun action",
    "{adam} and {maya} high fiving their smiling father in a sparkling clean room, {maya} hugging a teddy bear"
   ]
+ },
+ {
+  "id": "ai_gratitude_garden_24",
+  "title": "Gratitude Garden 🌼",
+  "theme": "moral",
+  "moral": "Be thankful for what you have.",
+  "lines": [
+   "Sunshine filled {benny}'s day.",
+   "{benny} played outside happily.",
+   "Friends {adam} and {maya} joined.",
+   "They picked colorful flowers together.",
+   "{lina} brought a big basket.",
+   "They filled the basket with flowers.",
+   "{benny} and friends made a garden.",
+   "Be thankful for what you have."
+  ],
+  "scenes": [
+   "{benny} in a sunny meadow",
+   "{benny} and {adam} picking flowers",
+   "{maya} and {lina} holding a basket",
+   "{benny} and friends in a garden",
+   "{benny} and friends smiling together"
+  ],
+  "ai": true
  }
 ]
