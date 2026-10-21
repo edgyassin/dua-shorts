@@ -598,5 +598,29 @@
    "{benny} and friends smiling together"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_kind_day_25",
+  "title": "Benny's Kind Day 🌞",
+  "theme": "moral|islamic",
+  "moral": "Being kind and giving charity is important.",
+  "lines": [
+   "Something amazing happened today!",
+   "It started with {benny}.",
+   "He said Bismillah before eating.",
+   "Then {adam} and {maya} joined.",
+   "They gave charity to needy.",
+   "Everyone said Alhamdulillah together.",
+   "They felt happy and kind.",
+   "Being kind and giving charity is important."
+  ],
+  "scenes": [
+   "{benny} waking up with a smile.",
+   "{benny} saying Bismillah before breakfast.",
+   "{adam} and {maya} giving charity.",
+   "{lina} helping {benny} and friends.",
+   "{benny}, {adam}, {maya}, and {lina} praying together."
+  ],
+  "ai": true
  }
 ]
