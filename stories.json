@@ -622,5 +622,29 @@
    "{benny}, {adam}, {maya}, and {lina} praying together."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_friends_help_friends_26",
+  "title": "Friends Help Friends 🤝",
+  "theme": "moral",
+  "moral": "Teamwork makes the dream work.",
+  "lines": [
+   "Big storm coming!",
+   "Everyone runs.",
+   "Needs help.",
+   "Works together.",
+   "Succeeds together.",
+   "Feels happy.",
+   "Helps others.",
+   "Teamwork matters."
+  ],
+  "scenes": [
+   "{benny} and {adam} running.",
+   "{maya} and {lina} helping.",
+   "{benny} and {adam} working.",
+   "{maya} and {lina} succeeding.",
+   "{benny} and {adam} smiling."
+  ],
+  "ai": true
  }
 ]
