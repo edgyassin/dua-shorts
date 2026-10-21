@@ -646,5 +646,29 @@
    "{benny} and {adam} smiling."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_friends_play_together_27",
+  "title": "Friends Play Together 🤸",
+  "theme": "moral",
+  "moral": "Friendship makes everyone happy.",
+  "lines": [
+   "Something fun is happening!",
+   "Kids are playing outside.",
+   "They are laughing together.",
+   "Friends make each other happy.",
+   "Everyone feels included.",
+   "They share their toys.",
+   "They take turns playing.",
+   "Friendship makes everyone happy."
+  ],
+  "scenes": [
+   "{benny} and {lina} playing.",
+   "{adam} and {maya} joining.",
+   "{benny} sharing toys.",
+   "{lina} and {maya} laughing.",
+   "{adam} and friends playing."
+  ],
+  "ai": true
  }
 ]
