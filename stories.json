@@ -718,5 +718,29 @@
    "{benny} feeling happy."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_kind_deed_30",
+  "title": "Benny's Kind Deed 🌟",
+  "theme": "moral|islamic",
+  "moral": "Being kind and giving charity is important.",
+  "lines": [
+   "Sunshine filled the room.",
+   "It was a new day.",
+   "Time to help others.",
+   "Start with Bismillah.",
+   "Be kind every day.",
+   "Say Alhamdulillah always.",
+   "Give to those needy.",
+   "Kindness is the lesson."
+  ],
+  "scenes": [
+   "{benny} wakes up.",
+   "{benny} says Bismillah.",
+   "{benny} gives charity.",
+   "{adam} and {maya} smile.",
+   "{lina} and {benny} pray."
+  ],
+  "ai": true
  }
 ]
