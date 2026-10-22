@@ -670,5 +670,29 @@
    "{adam} and friends playing."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_honesty_is_best_28",
+  "title": "Honesty Is Best 🐰",
+  "theme": "moral",
+  "moral": "Honesty is always the best choice.",
+  "lines": [
+   "Something shiny fell.",
+   "It was a coin.",
+   "Found by {benny}.",
+   "He thought to keep.",
+   "But then he saw {adam}.",
+   "Told him the truth.",
+   "Returned to owner.",
+   "Honesty is best."
+  ],
+  "scenes": [
+   "{benny} finds coin.",
+   "{benny} holds coin.",
+   "{benny} sees {adam}.",
+   "{benny} tells {adam}.",
+   "{benny} returns coin."
+  ],
+  "ai": true
  }
 ]
