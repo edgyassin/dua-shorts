@@ -694,5 +694,29 @@
    "{benny} returns coin."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_climb_29",
+  "title": "Benny's Big Climb 🏔️",
+  "theme": "adventure",
+  "moral": "Not giving up leads to success.",
+  "lines": [
+   "Oh no, {benny} fell!",
+   "He got up again.",
+   "Tried and tried.",
+   "Climbed a little.",
+   "Reached the top!",
+   "Felt so happy.",
+   "Wanted to climb more.",
+   "Not giving up leads to success."
+  ],
+  "scenes": [
+   "{benny} climbing mountain.",
+   "{benny} falling down.",
+   "{benny} getting up.",
+   "{benny} reaching top.",
+   "{benny} feeling happy."
+  ],
+  "ai": true
  }
 ]
