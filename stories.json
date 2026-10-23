@@ -766,5 +766,29 @@
    "{benny} and kitten smile."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_kindness_day_32",
+  "title": "Benny's Kindness Day 🌞",
+  "theme": "moral|islamic",
+  "moral": "Being kind and giving charity is important.",
+  "lines": [
+   "Something wonderful happened today!",
+   "It started with {benny}.",
+   "He said Bismillah before eating.",
+   "Then {adam} and {maya} joined.",
+   "They gave charity to those in need.",
+   "Everyone felt happy and grateful.",
+   "They all said Alhamdulillah together.",
+   "Being kind and giving charity is important."
+  ],
+  "scenes": [
+   "{benny} waking up with a smile.",
+   "{benny} eating with {adam} and {maya}.",
+   "{benny} and friends giving charity.",
+   "{lina} receiving charity with gratitude.",
+   "{benny} and friends saying Alhamdulillah."
+  ],
+  "ai": true
  }
 ]
