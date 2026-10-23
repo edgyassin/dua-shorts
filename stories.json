@@ -742,5 +742,29 @@
    "{lina} and {benny} pray."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_helps_a_friend_31",
+  "title": "Benny Helps a Friend 🐰",
+  "theme": "moral",
+  "moral": "We should be kind to animals.",
+  "lines": [
+   "Oh no, a kitten is stuck!",
+   "It cries for help.",
+   "The sun sets slowly.",
+   "A little boy runs.",
+   "He finds the kitten.",
+   "He calls {benny}.",
+   "Together they help.",
+   "We should be kind to animals."
+  ],
+  "scenes": [
+   "{benny} and {adam} play.",
+   "{maya} and {lina} watch.",
+   "{benny} sees kitten.",
+   "{adam} and {benny} run.",
+   "{benny} and kitten smile."
+  ],
+  "ai": true
  }
 ]
