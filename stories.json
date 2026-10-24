@@ -790,5 +790,29 @@
    "{benny} and friends saying Alhamdulillah."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_shares_his_toys_33",
+  "title": "Benny Shares His Toys 🎀",
+  "theme": "moral",
+  "moral": "Sharing makes everyone happy.",
+  "lines": [
+   "Something shiny caught {benny}'s eye.",
+   "He found a new toy car.",
+   "He wanted to play alone.",
+   "But {adam} and {maya} asked.",
+   "To play with the car too.",
+   "He said yes and smiled.",
+   "Now they all play together.",
+   "Sharing makes everyone happy."
+  ],
+  "scenes": [
+   "{benny} finds a toy car.",
+   "{benny} plays alone with car.",
+   "{adam} and {maya} ask {benny}.",
+   "{benny} shares the toy car.",
+   "{benny}, {adam}, {maya} play together."
+  ],
+  "ai": true
  }
 ]
