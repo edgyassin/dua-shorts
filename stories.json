@@ -814,5 +814,29 @@
    "{benny}, {adam}, {maya} play together."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_helping_hands_34",
+  "title": "Helping Hands 🤝",
+  "theme": "moral",
+  "moral": "We should help our parents with household chores.",
+  "lines": [
+   "Something is broken!",
+   "Let's fix it.",
+   "We need tools.",
+   "Where are they?",
+   "Let's search.",
+   "Found them!",
+   "All fixed now.",
+   "Helping parents is important."
+  ],
+  "scenes": [
+   "{benny} holding a hammer",
+   "{adam} and {maya} searching",
+   "{lina} finding tools",
+   "{benny} fixing something",
+   "{adam} and {maya} helping {lina}"
+  ],
+  "ai": true
  }
 ]
