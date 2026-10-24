@@ -838,5 +838,29 @@
    "{adam} and {maya} helping {lina}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_kind_heart_35",
+  "title": "Benny's Kind Heart ❤️",
+  "theme": "moral|islamic",
+  "moral": "Being kind and giving charity is important.",
+  "lines": [
+   "Oh no, {benny} is hungry!",
+   "He says Bismillah.",
+   "Eats food with {adam}.",
+   "Says Alhamdulillah after.",
+   "Sees {lina} in need.",
+   "Gives her food kindly.",
+   "Feels happy inside.",
+   "Being kind and giving charity is important."
+  ],
+  "scenes": [
+   "{benny} holding empty plate.",
+   "{benny} and {adam} eating.",
+   "{lina} looking hungry.",
+   "{benny} giving {lina} food.",
+   "{benny} smiling with {adam} and {lina}."
+  ],
+  "ai": true
  }
 ]
