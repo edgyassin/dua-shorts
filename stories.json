@@ -910,5 +910,29 @@
    "{benny} hugging kitten's family"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_waits_for_cake_38",
+  "title": "Benny Waits for Cake 🎂",
+  "theme": "moral",
+  "moral": "Patience is a virtue that brings sweet rewards.",
+  "lines": [
+   "Suddenly, cake appeared!",
+   "It smelled so sweet.",
+   "But it wasn't ready.",
+   "Waiting was hard.",
+   "Time passed slowly.",
+   "Then it was ready.",
+   "Yay, time to eat!",
+   "Patience is a virtue."
+  ],
+  "scenes": [
+   "{benny} sees cake.",
+   "{benny} waits patiently.",
+   "{benny} looks at clock.",
+   "{benny} eats cake.",
+   "{benny} smiles happily."
+  ],
+  "ai": true
  }
 ]
