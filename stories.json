@@ -862,5 +862,29 @@
    "{benny} smiling with {adam} and {lina}."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_discovery_36",
+  "title": "Benny's Big Discovery 🌟",
+  "theme": "adventure",
+  "moral": "Helping others is very rewarding.",
+  "lines": [
+   "Oh no, a flood is coming!",
+   "Everyone must work together.",
+   "We need to build a wall.",
+   "It will keep us safe.",
+   "The wall is almost done.",
+   "Let's add some final touches.",
+   "The flood is getting closer.",
+   "Helping others is very rewarding."
+  ],
+  "scenes": [
+   "{benny} is running.",
+   "{adam} and {maya} are building.",
+   "{benny} and {lina} are carrying.",
+   "{adam} and {maya} are smiling.",
+   "{benny} is happy."
+  ],
+  "ai": true
  }
 ]
