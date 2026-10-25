@@ -886,5 +886,29 @@
    "{benny} is happy."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_fun_day_37",
+  "title": "Benny's Fun Day 🌞",
+  "theme": "adventure",
+  "moral": "Kindness makes everyone happy",
+  "lines": [
+   "Oh no, big storm coming!",
+   "Rainbow appears after storm.",
+   "Friends play outside together.",
+   "They find a little kitten.",
+   "Kitten is lost and alone.",
+   "They work together to help.",
+   "Kitten reunited with family.",
+   "Kindness makes everyone happy."
+  ],
+  "scenes": [
+   "{benny} running in field",
+   "{adam} and {maya} playing together",
+   "{lina} holding little kitten",
+   "{benny} and friends smiling",
+   "{benny} hugging kitten's family"
+  ],
+  "ai": true
  }
 ]
