@@ -958,5 +958,29 @@
    "{benny} hugs {maya}."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_brave_leap_40",
+  "title": "Benny's Brave Leap 🦸",
+  "theme": "moral",
+  "moral": "Courage helps us overcome fears and try new things.",
+  "lines": [
+   "Something big happened!",
+   "Benny felt scared.",
+   "He saw a hurdle.",
+   "Benny took a breath.",
+   "He jumped very high.",
+   "Benny felt proud.",
+   "He did it again.",
+   "Courage helps us"
+  ],
+  "scenes": [
+   "{benny} standing near hurdle",
+   "{benny} looking up at hurdle",
+   "{benny} taking deep breath",
+   "{benny} jumping over hurdle",
+   "{benny} smiling proudly"
+  ],
+  "ai": true
  }
 ]
