@@ -982,5 +982,29 @@
    "{benny} smiling proudly"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_helps_animals_41",
+  "title": "Benny Helps Animals 🐰",
+  "theme": "moral",
+  "moral": "We must be kind to animals.",
+  "lines": [
+   "Benny finds a hurt bird.",
+   "It has a broken wing.",
+   "He wants to help.",
+   "He gets a box.",
+   "He makes a bed.",
+   "The bird feels safe.",
+   "The bird gets better.",
+   "We must be kind to animals."
+  ],
+  "scenes": [
+   "{benny} finds bird.",
+   "{benny} holds bird.",
+   "{benny} makes bed.",
+   "{benny} feeds bird.",
+   "{benny} smiles."
+  ],
+  "ai": true
  }
 ]
