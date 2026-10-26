@@ -934,5 +934,29 @@
    "{benny} smiles happily."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_friend_day_39",
+  "title": "Benny's Friend Day 🐰",
+  "theme": "moral",
+  "moral": "Friendship is a great gift.",
+  "lines": [
+   "Benny finds friend!",
+   "Benny is happy.",
+   "He plays outside.",
+   "He shares toys.",
+   "He feels loved.",
+   "Friends make smile.",
+   "Friends help friends.",
+   "Friendship is gift."
+  ],
+  "scenes": [
+   "{benny} plays with {adam}.",
+   "{maya} joins {benny}.",
+   "{lina} smiles at {benny}.",
+   "{benny} shares with {adam}.",
+   "{benny} hugs {maya}."
+  ],
+  "ai": true
  }
 ]
