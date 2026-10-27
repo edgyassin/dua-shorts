@@ -1030,5 +1030,29 @@
    "{lina} hugging {benny}."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_try_43",
+  "title": "Benny's Big Try 🏋️",
+  "theme": "moral",
+  "moral": "Not giving up leads to success.",
+  "lines": [
+   "Benny wants to climb high.",
+   "He finds a big mountain.",
+   "Benny starts to climb.",
+   "He gets very tired.",
+   "Benny keeps going up.",
+   "He reaches the top.",
+   "Benny feels very proud.",
+   "Not giving up leads to success."
+  ],
+  "scenes": [
+   "{benny} at mountain base.",
+   "{benny} climbing mountain.",
+   "{benny} resting on mountain.",
+   "{benny} near mountain top.",
+   "{benny} at mountain top."
+  ],
+  "ai": true
  }
 ]
