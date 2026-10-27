@@ -1006,5 +1006,29 @@
    "{benny} smiles."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_kind_surprise_42",
+  "title": "Benny's Kind Surprise 🎁",
+  "theme": "moral",
+  "moral": "Kindness makes everyone happy.",
+  "lines": [
+   "Suddenly, {benny} had idea.",
+   "He wanted help friend.",
+   "Found sad {lina}.",
+   "Gave her big hug.",
+   "Made her smile.",
+   "Brought her favorite toy.",
+   "She felt happy again.",
+   "Kindness makes everyone happy."
+  ],
+  "scenes": [
+   "{benny} thinking deeply.",
+   "{benny} visiting {lina}.",
+   "{lina} smiling at {benny}.",
+   "{benny} giving {lina} toy.",
+   "{lina} hugging {benny}."
+  ],
+  "ai": true
  }
 ]
