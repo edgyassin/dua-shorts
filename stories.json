@@ -1054,5 +1054,29 @@
    "{benny} at mountain top."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_shares_toys_44",
+  "title": "Benny Shares Toys 🎀",
+  "theme": "moral",
+  "moral": "Sharing makes everyone happy.",
+  "lines": [
+   "Oh no, {benny} has no friends!",
+   "He has many toys.",
+   "Toys are fun.",
+   "But not alone.",
+   "He shares toys.",
+   "Now he has friends.",
+   "Friends play together.",
+   "Sharing makes everyone happy."
+  ],
+  "scenes": [
+   "{benny} playing alone.",
+   "{benny} with many toys.",
+   "{benny} and {adam} playing.",
+   "{benny} and {maya} laughing.",
+   "{benny} with friends playing."
+  ],
+  "ai": true
  }
 ]
