@@ -1078,5 +1078,29 @@
    "{benny} with friends playing."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_shares_toys_45",
+  "title": "Benny Shares Toys 🎀",
+  "theme": "moral",
+  "moral": "Sharing makes everyone happy.",
+  "lines": [
+   "Oh no, toys everywhere!",
+   "Toys are {benny}'s favorite.",
+   "He loves to play alone.",
+   "But {adam} wants to play.",
+   "Now {benny} shares toys.",
+   "Everyone plays together.",
+   "Toys bring so much joy.",
+   "Sharing makes everyone happy."
+  ],
+  "scenes": [
+   "{benny} playing with toys",
+   "{adam} watching {benny}",
+   "{benny} sharing toys with {adam}",
+   "{benny} and {adam} playing together",
+   "{benny} smiling with {adam}"
+  ],
+  "ai": true
  }
 ]
