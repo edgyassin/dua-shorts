@@ -1102,5 +1102,29 @@
    "{benny} smiling with {adam}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_thankful_day_46",
+  "title": "Benny's Thankful Day 🌞",
+  "theme": "moral",
+  "moral": "Gratitude makes us happy and content.",
+  "lines": [
+   "Something special happened today!",
+   "It was sunny outside.",
+   "Birds were singing.",
+   "Flowers were blooming.",
+   "Everything was perfect.",
+   "Friends were playing together.",
+   "They shared their toys.",
+   "Gratitude makes us happy and content."
+  ],
+  "scenes": [
+   "{'image': '{benny} in a sunny meadow'}",
+   "{'image': '{benny} and {lina} playing'}",
+   "{'image': '{benny} and friends sharing toys'}",
+   "{'image': '{benny} smiling with friends'}",
+   "{'image': '{benny} and {lina} hugging'}"
+  ],
+  "ai": true
  }
 ]
