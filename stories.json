@@ -1126,5 +1126,29 @@
    "{'image': '{benny} and {lina} hugging'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_helps_animals_47",
+  "title": "Benny Helps Animals 🐰",
+  "theme": "moral",
+  "moral": "Being kind to animals is important.",
+  "lines": [
+   "Oh no, a kitten is stuck!",
+   "It meows for help.",
+   "Runs to save kitten.",
+   "Gently picks up kitten.",
+   "Kitten purrs with joy.",
+   "Feeds the hungry kitten.",
+   "Gives water to kitten.",
+   "Kindness helps all creatures."
+  ],
+  "scenes": [
+   "{benny} sees kitten.",
+   "{benny} holds kitten.",
+   "{benny} feeds kitten.",
+   "{benny} gives water.",
+   "{benny} smiles with kitten."
+  ],
+  "ai": true
  }
 ]
