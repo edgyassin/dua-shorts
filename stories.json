@@ -1174,5 +1174,29 @@
    "{benny} smiling proudly."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_never_gives_up_49",
+  "title": "Benny Never Gives Up 🏋️",
+  "theme": "moral",
+  "moral": "Not giving up leads to success.",
+  "lines": [
+   "Something big is coming!",
+   "It's a big hill.",
+   "Benny wants to climb.",
+   "He tries and tries.",
+   "But it's very hard.",
+   "Benny doesn't give up.",
+   "He climbs to the top.",
+   "Not giving up leads to success."
+  ],
+  "scenes": [
+   "{benny} running towards hill",
+   "{benny} climbing the hill",
+   "{benny} resting on hill",
+   "{benny} and {adam} cheering",
+   "{benny} on top of hill"
+  ],
+  "ai": true
  }
 ]
