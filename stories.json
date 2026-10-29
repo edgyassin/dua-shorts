@@ -1150,5 +1150,29 @@
    "{benny} smiles with kitten."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_honest_choice_48",
+  "title": "Benny's Honest Choice 🐰",
+  "theme": "moral",
+  "moral": "Honesty is always the best choice.",
+  "lines": [
+   "Something shiny caught {benny}'s eye.",
+   "It was a lost coin.",
+   "He thought about keeping it.",
+   "But then he felt bad.",
+   "He decided to find owner.",
+   "Asked {adam} for help.",
+   "Together they found owner.",
+   "Honesty is always best."
+  ],
+  "scenes": [
+   "{benny} looking at coin.",
+   "{benny} and {adam} searching.",
+   "{benny} feeling bad.",
+   "{benny} returning coin.",
+   "{benny} smiling proudly."
+  ],
+  "ai": true
  }
 ]
