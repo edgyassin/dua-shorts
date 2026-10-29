@@ -1198,5 +1198,29 @@
    "{benny} on top of hill"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_helps_animals_50",
+  "title": "Benny Helps Animals 🐰",
+  "theme": "moral",
+  "moral": "Being kind to animals is important",
+  "lines": [
+   "Oh no, animals are in trouble!",
+   "They need help from friends",
+   "Like {benny} and {adam}",
+   "They find a lost kitten",
+   "And a bird with a broken wing",
+   "They take them to a safe place",
+   "Give them food and water",
+   "Being kind to animals is important"
+  ],
+  "scenes": [
+   "{benny} and {adam} running",
+   "{benny} holding a kitten",
+   "{adam} giving water to a bird",
+   "{benny} and {adam} smiling",
+   "{benny} hugging a happy animal"
+  ],
+  "ai": true
  }
 ]
