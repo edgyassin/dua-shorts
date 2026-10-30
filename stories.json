@@ -1270,5 +1270,29 @@
    "{'image': '{benny} and friends hugging'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_friends_help_each_other_53",
+  "title": "Friends Help Each Other 🐰",
+  "theme": "moral",
+  "moral": "Friends help friends in need.",
+  "lines": [
+   "Oh no, {benny} fell!",
+   "He cried for help.",
+   "His friends came.",
+   "They lifted him up.",
+   "{adam} gave him water.",
+   "{maya} gave him cake.",
+   "{lina} smiled at him.",
+   "Friends help friends in need."
+  ],
+  "scenes": [
+   "{benny} falling down.",
+   "{adam} and {maya} running.",
+   "{lina} smiling at {benny}.",
+   "{benny} hugging friends.",
+   "{benny} and friends playing."
+  ],
+  "ai": true
  }
 ]
