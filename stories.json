@@ -1246,5 +1246,29 @@
    "{maya} and {benny} are smiling together"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_spreads_joy_52",
+  "title": "Benny Spreads Joy 🌈",
+  "theme": "moral",
+  "moral": "Kindness makes everyone happy",
+  "lines": [
+   "Something wonderful happened",
+   "In a sunny meadow",
+   "Full of happy flowers",
+   "Friendly animals played",
+   "Helping each other",
+   "Being kind is fun",
+   "Everyone smiled together",
+   "Kindness makes everyone happy"
+  ],
+  "scenes": [
+   "{'image': '{benny} in a sunny meadow'}",
+   "{'image': '{benny} and {lina} playing'}",
+   "{'image': '{benny} helping {lina}'}",
+   "{'image': '{benny} and friends smiling'}",
+   "{'image': '{benny} and friends hugging'}"
+  ],
+  "ai": true
  }
 ]
