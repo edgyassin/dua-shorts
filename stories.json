@@ -1222,5 +1222,29 @@
    "{benny} hugging a happy animal"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_helping_hands_51",
+  "title": "Helping Hands 🤝",
+  "theme": "moral",
+  "moral": "Helping parents makes them happy",
+  "lines": [
+   "Oh no, mom is tired!",
+   "She needs our help now",
+   "We can assist her daily",
+   "In many small ways too",
+   "Like feeding our pet",
+   "Or laying the table",
+   "Even simple tasks matter",
+   "Helping parents makes them happy"
+  ],
+  "scenes": [
+   "{benny} and {adam} are helping mom",
+   "{maya} and {lina} are feeding a cat",
+   "{benny} is laying the table with {adam}",
+   "{lina} is giving mom a big hug",
+   "{maya} and {benny} are smiling together"
+  ],
+  "ai": true
  }
 ]
