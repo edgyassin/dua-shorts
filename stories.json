@@ -1342,5 +1342,29 @@
    "{'image': '{benny} and {adam} hugging mom'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_shares_his_blocks_56",
+  "title": "Benny Shares His Blocks 🧮",
+  "theme": "moral",
+  "moral": "Sharing makes everyone happy.",
+  "lines": [
+   "Wow, a big box arrived!",
+   "It was full of blocks.",
+   "Everyone wanted to play.",
+   "But {benny} didn't want to share.",
+   "Then {lina} joined in.",
+   "She showed {benny} how to share.",
+   "Now they build together.",
+   "Sharing makes everyone happy."
+  ],
+  "scenes": [
+   "{benny} excitedly opens box.",
+   "{benny} and {lina} play together.",
+   "{lina} builds a tall tower.",
+   "{benny} adds blocks to tower.",
+   "{benny} and {lina} smile together."
+  ],
+  "ai": true
  }
 ]
