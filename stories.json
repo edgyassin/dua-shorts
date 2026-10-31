@@ -1294,5 +1294,29 @@
    "{benny} and friends playing."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_brave_day_54",
+  "title": "Benny's Brave Day 🌞",
+  "theme": "moral",
+  "moral": "Courage helps us overcome fears.",
+  "lines": [
+   "Something big happened!",
+   "It was very loud.",
+   "Everyone was scared.",
+   "But {benny} stood up.",
+   "He faced his fear.",
+   "Others followed him.",
+   "They all felt brave.",
+   "Courage helps us overcome fears."
+  ],
+  "scenes": [
+   "{benny} looking up at a big cloud",
+   "{adam} and {maya} running away",
+   "{benny} standing in front of {lina}",
+   "{benny} and friends walking together",
+   "{benny} smiling with friends around him"
+  ],
+  "ai": true
  }
 ]
