@@ -1318,5 +1318,29 @@
    "{benny} smiling with friends around him"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_helping_at_home_55",
+  "title": "Helping at Home 🏠",
+  "theme": "moral",
+  "moral": "Helping parents makes them happy",
+  "lines": [
+   "Oh no, mom is tired!",
+   "She needs some help",
+   "Let's do the chores",
+   "We can make it fun",
+   "Everyone can contribute",
+   "Even little {maya}",
+   "We are a team",
+   "Helping parents makes them happy"
+  ],
+  "scenes": [
+   "{'image': '{benny} and {adam} doing dishes'}",
+   "{'image': '{maya} and {lina} folding laundry'}",
+   "{'image': '{benny} and {adam} vacuuming floor'}",
+   "{'image': '{maya} and {lina} making breakfast'}",
+   "{'image': '{benny} and {adam} hugging mom'}"
+  ],
+  "ai": true
  }
 ]
