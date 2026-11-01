@@ -1390,5 +1390,29 @@
    "{benny} reaching the top of the hill with joy"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_friends_build_together_58",
+  "title": "Friends Build Together 🏗️",
+  "theme": "moral",
+  "moral": "Teamwork helps achieve big goals.",
+  "lines": [
+   "Big project starts now!",
+   "Everyone is excited.",
+   "We need to work together.",
+   "Each one does their part.",
+   "It's almost finished now.",
+   "Everyone is happy.",
+   "They did it together.",
+   "Teamwork helps achieve big goals."
+  ],
+  "scenes": [
+   "{'image': '{benny} and {adam} with blocks'}",
+   "{'image': '{maya} and {lina} with toys'}",
+   "{'image': '{benny} and {adam} building'}",
+   "{'image': '{maya} and {lina} helping'}",
+   "{'image': '{benny}, {adam}, {maya}, and {lina} with finished project'}"
+  ],
+  "ai": true
  }
 ]
