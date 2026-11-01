@@ -1414,5 +1414,29 @@
    "{'image': '{benny}, {adam}, {maya}, and {lina} with finished project'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_try_59",
+  "title": "Benny's Big Try 🏋️",
+  "theme": "moral",
+  "moral": "Never give up when trying something new.",
+  "lines": [
+   "Wow, a big hill!",
+   "Too steep.",
+   "Try again.",
+   "Climb slowly.",
+   "Reach top.",
+   "Feel proud.",
+   "Learned lesson.",
+   "Never give up."
+  ],
+  "scenes": [
+   "{benny} at hill",
+   "{benny} climbing",
+   "{benny} resting",
+   "{benny} at top",
+   "{benny} smiling"
+  ],
+  "ai": true
  }
 ]
