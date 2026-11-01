@@ -1366,5 +1366,29 @@
    "{benny} and {lina} smile together."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_try_57",
+  "title": "Benny's Big Try 🏋️",
+  "theme": "moral",
+  "moral": "Never give up when things get tough.",
+  "lines": [
+   "Something big is happening today!",
+   "Benny runs to the big hill.",
+   "He wants to climb to the top.",
+   "But it's very steep and high.",
+   "Benny tries and tries again.",
+   "He doesn't give up, no way!",
+   "{benny} keeps going, don't you see?",
+   "Never give up when things get tough."
+  ],
+  "scenes": [
+   "{benny} standing in front of a big hill",
+   "{benny} running up the hill with determination",
+   "{benny} trying to climb the steep hill",
+   "{benny} taking a break, then trying again",
+   "{benny} reaching the top of the hill with joy"
+  ],
+  "ai": true
  }
 ]
