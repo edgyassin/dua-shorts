@@ -1438,5 +1438,30 @@
    "{benny} smiling"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_kindness_day_60",
+  "title": "Benny's Kindness Day 🌞",
+  "theme": "moral|islamic",
+  "moral": "Being kind and giving charity is important.",
+  "lines": [
+   "Wow, {benny} is helping!",
+   "He says Bismillah.",
+   "Then he eats.",
+   "He says Alhamdulillah.",
+   "He gives charity.",
+   "To {lina}.",
+   "She smiles.",
+   "Being kind helps.",
+   "We should be kind."
+  ],
+  "scenes": [
+   "{benny} holding food",
+   "{benny} eating with {lina}",
+   "{benny} giving to {lina}",
+   "{lina} smiling at {benny}",
+   "{benny} and {lina} hugging"
+  ],
+  "ai": true
  }
 ]
