@@ -1487,5 +1487,29 @@
    "{benny}, {adam}, and {maya} playing together."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_shares_his_toys_62",
+  "title": "Benny Shares His Toys 🎀",
+  "theme": "moral",
+  "moral": "Sharing makes everyone happy.",
+  "lines": [
+   "Oh no, toys are everywhere!",
+   "Benny plays alone.",
+   "Friends come over.",
+   "Benny shares toys.",
+   "Everyone smiles.",
+   "Toys bring joy.",
+   "Friends play together.",
+   "Sharing makes everyone happy."
+  ],
+  "scenes": [
+   "{'image': '{benny} plays with blocks'}",
+   "{'image': '{benny} sits alone with toys'}",
+   "{'image': '{adam} and {maya} visit {benny}'}",
+   "{'image': '{benny} shares toys with {adam} and {maya}'}",
+   "{'image': '{benny}, {adam}, and {maya} play together'}"
+  ],
+  "ai": true
  }
 ]
