@@ -1463,5 +1463,29 @@
    "{benny} and {lina} hugging"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_share_61",
+  "title": "Benny's Big Share 🎁",
+  "theme": "moral",
+  "moral": "Sharing makes everyone happy.",
+  "lines": [
+   "Oh no, toys are everywhere!",
+   "Benny plays with blocks.",
+   "He shares with {adam}.",
+   "They build a big castle.",
+   "Then {maya} joins in.",
+   "She adds a pretty flag.",
+   "Everyone is happy now.",
+   "Sharing makes everyone happy."
+  ],
+  "scenes": [
+   "{benny} surrounded by toys.",
+   "{benny} and {adam} building.",
+   "{maya} adding a flag.",
+   "{benny} and {adam} smiling.",
+   "{benny}, {adam}, and {maya} playing together."
+  ],
+  "ai": true
  }
 ]
