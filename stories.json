@@ -1559,5 +1559,29 @@
    "{'image': '{benny}, {adam}, {maya}, and {lina} standing together'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_help_65",
+  "title": "Benny's Big Help 🐰",
+  "theme": "adventure",
+  "moral": "Helping others is a great virtue.",
+  "lines": [
+   "Something is happening!",
+   "Friends are in trouble.",
+   "They need big help.",
+   "Someone must act.",
+   "Help comes quickly.",
+   "Friends are happy.",
+   "Thanks are given.",
+   "Helping others is a great virtue."
+  ],
+  "scenes": [
+   "{benny} runs to friends.",
+   "{adam} and {maya} smile.",
+   "{benny} and {lina} work.",
+   "{benny} saves the day.",
+   "{benny} and friends hug."
+  ],
+  "ai": true
  }
 ]
