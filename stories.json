@@ -1535,5 +1535,29 @@
    "{benny} and {lina} hugging a happy kitten"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_friends_build_together_64",
+  "title": "Friends Build Together 🏗️",
+  "theme": "moral",
+  "moral": "Teamwork helps us achieve big things.",
+  "lines": [
+   "Big project starts now!",
+   "Everyone is excited.",
+   "We need to work together.",
+   "Sharing ideas is important.",
+   "Building takes a long time.",
+   "Almost done, keep going!",
+   "Teamwork makes it happen.",
+   "Teamwork helps us achieve big things."
+  ],
+  "scenes": [
+   "{'image': '{benny} and {adam} with blocks'}",
+   "{'image': '{maya} and {lina} with hammers'}",
+   "{'image': '{benny} and {adam} building together'}",
+   "{'image': '{maya} and {lina} adding final touches'}",
+   "{'image': '{benny}, {adam}, {maya}, and {lina} standing together'}"
+  ],
+  "ai": true
  }
 ]
