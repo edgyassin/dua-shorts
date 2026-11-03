@@ -1511,5 +1511,29 @@
    "{'image': '{benny}, {adam}, and {maya} play together'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_loves_animals_63",
+  "title": "Benny Loves Animals 🐰",
+  "theme": "moral",
+  "moral": "We should be kind to animals.",
+  "lines": [
+   "Something amazing happens today!",
+   "Benny finds a lost kitten.",
+   "He gives it food and water.",
+   "The kitten becomes happy and strong.",
+   "{benny} plays with the kitten outside.",
+   "{benny} and {lina} care for animals together.",
+   "They make a safe home for the kitten.",
+   "We should be kind to animals."
+  ],
+  "scenes": [
+   "{benny} running in a green field",
+   "{benny} holding a little kitten",
+   "{benny} and {lina} playing with kittens",
+   "{benny} and {lina} giving food to birds",
+   "{benny} and {lina} hugging a happy kitten"
+  ],
+  "ai": true
  }
 ]
