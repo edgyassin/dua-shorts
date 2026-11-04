@@ -1631,5 +1631,29 @@
    "{benny} at mountain top."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_helping_at_home_68",
+  "title": "Helping at Home 🏠",
+  "theme": "moral",
+  "moral": "Helping parents is very important",
+  "lines": [
+   "Wow, mom is tired!",
+   "She needs some help.",
+   "Let's do the chores.",
+   "We can make it fun.",
+   "Everyone can contribute.",
+   "Even {benny} can help.",
+   "We work together now.",
+   "Helping parents is very important"
+  ],
+  "scenes": [
+   "{'image': '{benny} and {lina} watching mom'}",
+   "{'image': '{benny} and {lina} doing chores'}",
+   "{'image': '{benny} feeding a pet'}",
+   "{'image': '{lina} helping with laundry'}",
+   "{'image': '{benny} and {lina} hugging mom'}"
+  ],
+  "ai": true
  }
 ]
