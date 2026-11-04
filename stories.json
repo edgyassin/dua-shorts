@@ -1607,5 +1607,29 @@
    "{benny} hugging friends"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_never_quits_67",
+  "title": "Benny Never Quits 🏋️",
+  "theme": "moral",
+  "moral": "Never give up, keep trying.",
+  "lines": [
+   "Benny starts big climb.",
+   "He feels very tired.",
+   "He wants to quit.",
+   "But tries again.",
+   "And again, and again.",
+   "Benny gets stronger.",
+   "Reaches the top.",
+   "Never give up, keep trying."
+  ],
+  "scenes": [
+   "{benny} at mountain base.",
+   "{benny} climbing mountain.",
+   "{benny} resting on rock.",
+   "{benny} climbing again.",
+   "{benny} at mountain top."
+  ],
+  "ai": true
  }
 ]
