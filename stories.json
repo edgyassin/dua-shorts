@@ -1583,5 +1583,29 @@
    "{benny} and friends hug."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_kind_surprise_66",
+  "title": "Benny's Kind Surprise 🎁",
+  "theme": "moral",
+  "moral": "Kindness makes everyone happy",
+  "lines": [
+   "Something special happened today!",
+   "It was sunny outside.",
+   "Everyone was smiling.",
+   "People were helping each other.",
+   "Friends were sharing toys.",
+   "Toys made everyone happy.",
+   "Sharing is caring always.",
+   "Kindness makes everyone happy"
+  ],
+  "scenes": [
+   "{benny} playing outside",
+   "{adam} and {maya} sharing toys",
+   "{lina} helping {benny}",
+   "{benny} and friends smiling",
+   "{benny} hugging friends"
+  ],
+  "ai": true
  }
 ]
