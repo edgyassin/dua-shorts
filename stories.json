@@ -1703,5 +1703,29 @@
    "{benny} smiling with friends behind him"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_park_adventure_71",
+  "title": "Benny's Big Park Adventure 🏞️",
+  "theme": "adventure",
+  "moral": "Helping others is very important",
+  "lines": [
+   "Wow, a big adventure starts!",
+   "Friends are waiting at park",
+   "They play and laugh together",
+   "Someone needs help now",
+   "Friends work together always",
+   "They find a happy solution",
+   "Everyone smiles and thanks",
+   "Helping others is very important"
+  ],
+  "scenes": [
+   "{benny} runs to the park",
+   "{adam} and {maya} play swings",
+   "{benny} and {lina} push slide",
+   "{adam} helps {maya} up",
+   "{benny} and friends smile together"
+  ],
+  "ai": true
  }
 ]
