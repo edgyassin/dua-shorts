@@ -1679,5 +1679,29 @@
    "{'image': '{benny}, {adam}, {maya}, and {lina} standing together'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_brave_step_70",
+  "title": "Benny's Brave Step 🦸",
+  "theme": "moral",
+  "moral": "Courage helps us overcome fears.",
+  "lines": [
+   "Suddenly, loud thunder boomed.",
+   "Dark clouds gathered fast.",
+   "Everyone ran for cover.",
+   "But {benny} stood still.",
+   "He took a deep breath.",
+   "And walked towards the sound.",
+   "His friends followed closely.",
+   "Courage helps us overcome fears."
+  ],
+  "scenes": [
+   "{benny} looking up at dark clouds",
+   "{adam} and {maya} running away",
+   "{benny} standing still with friends",
+   "{lina} watching {benny} take a step",
+   "{benny} smiling with friends behind him"
+  ],
+  "ai": true
  }
 ]
