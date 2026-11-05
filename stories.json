@@ -1655,5 +1655,29 @@
    "{'image': '{benny} and {lina} hugging mom'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_teamwork_makes_dreamwork_69",
+  "title": "Teamwork Makes Dreamwork 🌈",
+  "theme": "moral",
+  "moral": "Teamwork helps achieve big goals.",
+  "lines": [
+   "Something big is happening!",
+   "Everyone is working together.",
+   "They are building a bridge.",
+   "It's a big project.",
+   "They need each other.",
+   "Together they can do it.",
+   "They finally finish the bridge.",
+   "Teamwork helps achieve big goals."
+  ],
+  "scenes": [
+   "{'image': '{benny} and {adam} with tools'}",
+   "{'image': '{maya} and {lina} carrying blocks'}",
+   "{'image': '{benny} and {adam} building bridge'}",
+   "{'image': '{maya} and {lina} helping friends'}",
+   "{'image': '{benny}, {adam}, {maya}, and {lina} standing together'}"
+  ],
+  "ai": true
  }
 ]
