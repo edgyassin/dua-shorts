@@ -1727,5 +1727,29 @@
    "{benny} and friends smile together"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_helping_at_home_72",
+  "title": "Helping at Home 🏠",
+  "theme": "moral",
+  "moral": "Helping parents is very important",
+  "lines": [
+   "Something is broken!",
+   "Mom is stressed",
+   "Dad is busy",
+   "Kids want to help",
+   "They make a plan",
+   "Work together now",
+   "Finished the task",
+   "Helping parents is key"
+  ],
+  "scenes": [
+   "{benny} looks at mess",
+   "{adam} and {maya} think",
+   "{lina} and {benny} clean",
+   "{adam} and {maya} cook",
+   "{benny} hugs mom"
+  ],
+  "ai": true
  }
 ]
