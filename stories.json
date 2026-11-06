@@ -1751,5 +1751,29 @@
    "{benny} hugs mom"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_friends_build_a_treehouse_73",
+  "title": "Friends Build a Treehouse 🏠",
+  "theme": "moral",
+  "moral": "Teamwork helps achieve big goals.",
+  "lines": [
+   "Something big is happening!",
+   "Friends are working together.",
+   "They are building a treehouse.",
+   "It's going to be very tall.",
+   "They need to work as a team.",
+   "Everyone has a special job.",
+   "They are almost done building.",
+   "Teamwork helps achieve big goals."
+  ],
+  "scenes": [
+   "{'image': '{benny} and {adam} carrying wood'}",
+   "{'image': '{maya} and {lina} hammering nails'}",
+   "{'image': '{benny} and {adam} sawing wood'}",
+   "{'image': '{maya} and {lina} painting the treehouse'}",
+   "{'image': '{benny}, {adam}, {maya}, and {lina} standing in front of the finished treehouse'}"
+  ],
+  "ai": true
  }
 ]
