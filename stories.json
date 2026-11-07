@@ -1799,5 +1799,29 @@
    "{benny} sees blooming flowers."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_kindness_matters_75",
+  "title": "Kindness Matters 🐰",
+  "theme": "moral",
+  "moral": "Kindness makes everyone happy",
+  "lines": [
+   "Something nice happened",
+   "Today was sunny",
+   "Everyone smiled",
+   "Friends played together",
+   "Shared toys happily",
+   "Helped each other",
+   "Felt happy inside",
+   "Kindness makes everyone happy"
+  ],
+  "scenes": [
+   "{'image': '{benny} playing outside'}",
+   "{'image': '{adam} and {maya} smiling'}",
+   "{'image': '{benny} and {lina} sharing toys'}",
+   "{'image': '{adam} helping {maya}'}",
+   "{'image': '{benny} and friends hugging'}"
+  ],
+  "ai": true
  }
 ]
