@@ -1775,5 +1775,29 @@
    "{'image': '{benny}, {adam}, {maya}, and {lina} standing in front of the finished treehouse'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_waits_for_flowers_74",
+  "title": "Benny Waits for Flowers 🌼",
+  "theme": "moral",
+  "moral": "Patience is a virtue that brings great rewards.",
+  "lines": [
+   "Something amazing happened!",
+   "It was a surprise.",
+   "The sun shone brightly.",
+   "The ground was ready.",
+   "Seeds were planted.",
+   "Water was poured.",
+   "Time passed slowly.",
+   "Patience is key."
+  ],
+  "scenes": [
+   "{benny} holds a shovel.",
+   "{adam} and {maya} watch {benny}.",
+   "{benny} waters the seeds.",
+   "{lina} and {benny} wait together.",
+   "{benny} sees blooming flowers."
+  ],
+  "ai": true
  }
 ]
