@@ -1823,5 +1823,29 @@
    "{'image': '{benny} and friends hugging'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_sorry_makes_friends_smile_76",
+  "title": "Sorry Makes Friends Smile 😊",
+  "theme": "moral",
+  "moral": "Saying sorry makes everyone happy.",
+  "lines": [
+   "Oh no, {benny} broke it!",
+   "He felt very sad.",
+   "He said sorry quickly.",
+   "His friend {lina} forgave.",
+   "They hugged each other.",
+   "Now they're friends again.",
+   "They played together.",
+   "Saying sorry makes everyone happy."
+  ],
+  "scenes": [
+   "{benny} holding a broken toy",
+   "{benny} looking sad with {lina}",
+   "{benny} saying sorry to {lina}",
+   "{lina} hugging {benny}",
+   "{benny} and {lina} playing together"
+  ],
+  "ai": true
  }
 ]
