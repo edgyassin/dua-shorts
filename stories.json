@@ -1847,5 +1847,29 @@
    "{benny} and {lina} playing together"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_friends_build_together_77",
+  "title": "Friends Build Together 🏗️",
+  "theme": "moral",
+  "moral": "Teamwork makes the dream work.",
+  "lines": [
+   "Oh no, the park is broken!",
+   "We need to fix it.",
+   "Let's work together.",
+   "Everyone can help.",
+   "We can do it!",
+   "It's fun to work together.",
+   "The park is fixed now.",
+   "Teamwork makes the dream work."
+  ],
+  "scenes": [
+   "{'image': '{benny} and {adam} looking at the broken park'}",
+   "{'image': '{maya} and {lina} picking up tools'}",
+   "{'image': '{benny} and {adam} building a swing'}",
+   "{'image': '{maya} and {lina} painting a slide'}",
+   "{'image': '{benny}, {adam}, {maya}, and {lina} playing together'}"
+  ],
+  "ai": true
  }
 ]
