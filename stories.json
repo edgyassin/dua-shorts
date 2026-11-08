@@ -1895,5 +1895,29 @@
    "{lina} thanks {benny} smilingly"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_helps_a_kitten_79",
+  "title": "Benny Helps a Kitten 🐱",
+  "theme": "moral",
+  "moral": "Being kind to animals is important.",
+  "lines": [
+   "Something is crying.",
+   "It's a kitten.",
+   "The kitten is lost.",
+   "It needs help.",
+   "We must be kind.",
+   "Helping animals is good.",
+   "Everyone is happy now.",
+   "Being kind to animals is important."
+  ],
+  "scenes": [
+   "{benny} finds a kitten.",
+   "{benny} and {lina} play.",
+   "{benny} gives food.",
+   "{benny} and {adam} smile.",
+   "{benny} hugs kitten."
+  ],
+  "ai": true
  }
 ]
