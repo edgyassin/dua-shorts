@@ -1871,5 +1871,29 @@
    "{'image': '{benny}, {adam}, {maya}, and {lina} playing together'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_grateful_friends_78",
+  "title": "Grateful Friends 🐰",
+  "theme": "moral",
+  "moral": "Being grateful makes us happy",
+  "lines": [
+   "Wow, sunshine fills the sky!",
+   "Birds sing sweet melodies.",
+   "Children play outside happily.",
+   "Smiles are everywhere today.",
+   "Everyone feels grateful somehow.",
+   "Happiness fills their hearts.",
+   "Gratitude brings joy always.",
+   "Being grateful makes us happy"
+  ],
+  "scenes": [
+   "{benny} plays with {adam}",
+   "{maya} and {lina} laugh together",
+   "{benny} and friends share toys",
+   "{adam} hugs {maya} tightly",
+   "{lina} thanks {benny} smilingly"
+  ],
+  "ai": true
  }
 ]
