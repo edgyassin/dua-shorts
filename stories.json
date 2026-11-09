@@ -1943,5 +1943,29 @@
    "{benny} and owner hug"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_happy_day_81",
+  "title": "Benny's Happy Day 🌞",
+  "theme": "moral",
+  "moral": "Gratitude makes us happy.",
+  "lines": [
+   "Something special happened!",
+   "It was sunny outside.",
+   "Everyone felt happy.",
+   "They played together.",
+   "They shared their toys.",
+   "They helped each other.",
+   "They felt grateful.",
+   "Gratitude makes us happy."
+  ],
+  "scenes": [
+   "{'image': '{benny} playing outside'}",
+   "{'image': '{adam} and {maya} smiling'}",
+   "{'image': '{benny} and {lina} sharing toys'}",
+   "{'image': '{adam} helping {maya}'}",
+   "{'image': '{benny} and friends hugging'}"
+  ],
+  "ai": true
  }
 ]
