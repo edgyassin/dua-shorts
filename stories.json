@@ -1919,5 +1919,29 @@
    "{benny} hugs kitten."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_helps_a_friend_80",
+  "title": "Benny Helps a Friend 🐰",
+  "theme": "moral",
+  "moral": "Being kind to animals is important",
+  "lines": [
+   "Oh no, a kitten is stuck!",
+   "It meows for help",
+   "Benny finds it",
+   "He gently picks it up",
+   "The kitten purrs loudly",
+   "Benny gives it food",
+   "The kitten's owner thanks",
+   "Kindness to animals matters"
+  ],
+  "scenes": [
+   "{benny} sees a kitten",
+   "{benny} holds the kitten",
+   "{benny} gives food",
+   "{benny} smiles at kitten",
+   "{benny} and owner hug"
+  ],
+  "ai": true
  }
 ]
