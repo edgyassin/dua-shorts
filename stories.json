@@ -2015,5 +2015,29 @@
    "{'image': '{lina} and {benny} smiling'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_helping_at_home_84",
+  "title": "Helping at Home 🏠",
+  "theme": "moral",
+  "moral": "Helping parents makes them happy",
+  "lines": [
+   "Oh no, mom is busy!",
+   "She needs help now.",
+   "Let's assist her.",
+   "We can do it.",
+   "It's fun to help.",
+   "Mom is smiling.",
+   "We made her happy.",
+   "Helping parents makes them happy"
+  ],
+  "scenes": [
+   "{benny} and {adam} in kitchen",
+   "{maya} and {lina} holding brooms",
+   "{benny} and {adam} making beds",
+   "{maya} and {lina} folding clothes",
+   "{benny} and {adam} hugging mom"
+  ],
+  "ai": true
  }
 ]
