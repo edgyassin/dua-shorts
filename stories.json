@@ -1967,5 +1967,29 @@
    "{'image': '{benny} and friends hugging'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_friends_work_together_82",
+  "title": "Friends Work Together 🤝",
+  "theme": "moral",
+  "moral": "Teamwork makes everything easier.",
+  "lines": [
+   "Something big is happening!",
+   "Everyone is working together.",
+   "They are building something.",
+   "It is getting very big.",
+   "Almost done now.",
+   "They did a great job.",
+   "They are all very happy.",
+   "Teamwork makes everything easier."
+  ],
+  "scenes": [
+   "{benny} and {adam} with tools.",
+   "{maya} and {lina} carrying blocks.",
+   "{benny} and {adam} building high.",
+   "{maya} and {lina} adding colors.",
+   "{benny}, {adam}, {maya}, {lina} celebrating."
+  ],
+  "ai": true
  }
 ]
