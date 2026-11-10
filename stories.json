@@ -2039,5 +2039,29 @@
    "{benny} and {adam} hugging mom"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_brave_jump_85",
+  "title": "Benny's Brave Jump 🦸",
+  "theme": "moral",
+  "moral": "Courage helps us try new things.",
+  "lines": [
+   "Something big happened today!",
+   "It was sunny outside.",
+   "Friends were playing.",
+   "They saw a hill.",
+   "It was very steep.",
+   "Everyone was afraid.",
+   "But {benny} tried it.",
+   "Courage helps us try new things."
+  ],
+  "scenes": [
+   "{'image': '{benny} standing on a hill'}",
+   "{'image': '{benny} looking at friends'}",
+   "{'image': '{adam} and {maya} watching {benny}'}",
+   "{'image': '{benny} jumping down hill'}",
+   "{'image': '{lina} cheering {benny}'}"
+  ],
+  "ai": true
  }
 ]
