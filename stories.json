@@ -1991,5 +1991,29 @@
    "{benny}, {adam}, {maya}, {lina} celebrating."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_friends_together_83",
+  "title": "Friends Together 🐰",
+  "theme": "moral",
+  "moral": "Friendship makes everyone happy",
+  "lines": [
+   "Something special happened",
+   "In a sunny meadow",
+   "Friends played together",
+   "Laughing and running",
+   "Sharing toys and fun",
+   "Helping each other",
+   "Being kind matters",
+   "Friendship makes everyone happy"
+  ],
+  "scenes": [
+   "{'image': '{benny} and {adam} playing'}",
+   "{'image': '{maya} and {lina} laughing'}",
+   "{'image': '{benny} sharing toys'}",
+   "{'image': '{adam} helping {maya}'}",
+   "{'image': '{lina} and {benny} smiling'}"
+  ],
+  "ai": true
  }
 ]
