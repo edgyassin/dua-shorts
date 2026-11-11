@@ -2111,5 +2111,29 @@
    "{benny} smiles widely."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_try_88",
+  "title": "Benny's Big Try 🏋️",
+  "theme": "moral",
+  "moral": "Not giving up leads to success.",
+  "lines": [
+   "Something shiny caught {benny}'s eye.",
+   "He wanted to climb up.",
+   "But it was too high.",
+   "He tried and tried again.",
+   "His legs got tired.",
+   "He didn't give up.",
+   "He kept going and succeeded.",
+   "Not giving up leads to success."
+  ],
+  "scenes": [
+   "{benny} looking up at something shiny.",
+   "{benny} climbing with determined face.",
+   "{benny} resting with tired legs.",
+   "{benny} climbing again with new energy.",
+   "{benny} standing proudly at the top."
+  ],
+  "ai": true
  }
 ]
