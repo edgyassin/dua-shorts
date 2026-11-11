@@ -2063,5 +2063,29 @@
    "{'image': '{lina} cheering {benny}'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_friends_build_together_86",
+  "title": "Friends Build Together 🏗️",
+  "theme": "moral",
+  "moral": "Teamwork makes the dream work.",
+  "lines": [
+   "Big project starts now!",
+   "Everyone is excited.",
+   "We need a plan.",
+   "Working together is fun.",
+   "Progress is being made.",
+   "Almost done, keep going!",
+   "The end result is amazing.",
+   "Teamwork makes the dream work."
+  ],
+  "scenes": [
+   "{benny} and {adam} with tools.",
+   "{maya} and {lina} building.",
+   "{benny} and {adam} constructing.",
+   "{lina} and {maya} painting.",
+   "{benny} and friends celebrating."
+  ],
+  "ai": true
  }
 ]
