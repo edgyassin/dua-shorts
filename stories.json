@@ -2087,5 +2087,29 @@
    "{benny} and friends celebrating."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_grateful_day_87",
+  "title": "Benny's Grateful Day 🌞",
+  "theme": "moral",
+  "moral": "Gratitude makes us happy.",
+  "lines": [
+   "Sunshine fills the sky.",
+   "Birds sing sweet songs.",
+   "Flowers bloom everywhere.",
+   "Children play outside.",
+   "Smiles are all around.",
+   "Everyone feels happy.",
+   "Happiness comes from gratitude.",
+   "Gratitude makes us happy."
+  ],
+  "scenes": [
+   "{benny} runs in a field.",
+   "{adam} and {maya} play.",
+   "{benny} and {lina} laugh.",
+   "{benny} hugs a tree.",
+   "{benny} smiles widely."
+  ],
+  "ai": true
  }
 ]
