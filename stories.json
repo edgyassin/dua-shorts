@@ -2135,5 +2135,29 @@
    "{benny} standing proudly at the top."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_helps_animals_89",
+  "title": "Benny Helps Animals 🐰",
+  "theme": "moral",
+  "moral": "We should be kind to animals.",
+  "lines": [
+   "Oh no, a kitten is stuck!",
+   "It cries for help.",
+   "Someone must save it.",
+   "The kitten is very scared.",
+   "It needs our help now.",
+   "We must be kind to it.",
+   "We save the kitten safely.",
+   "We should be kind to animals."
+  ],
+  "scenes": [
+   "{benny} sees a kitten stuck.",
+   "{adam} and {maya} run to help.",
+   "{lina} brings a warm towel.",
+   "{benny} holds the kitten gently.",
+   "{adam} and {maya} smile happily."
+  ],
+  "ai": true
  }
 ]
