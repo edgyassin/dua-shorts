@@ -2159,5 +2159,29 @@
    "{adam} and {maya} smile happily."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_courage_90",
+  "title": "Benny's Big Courage 🦸",
+  "theme": "moral",
+  "moral": "Courage helps us overcome fears.",
+  "lines": [
+   "Something scary happened!",
+   "It was dark outside.",
+   "Everyone was afraid.",
+   "But {benny} was brave.",
+   "He stood up tall.",
+   "And faced his fear.",
+   "Others followed him.",
+   "Courage helps us overcome fears."
+  ],
+  "scenes": [
+   "{benny} in a dark forest",
+   "{benny} standing tall",
+   "{adam} and {maya} watching {benny}",
+   "{lina} joining {benny}",
+   "{benny} and friends smiling together"
+  ],
+  "ai": true
  }
 ]
