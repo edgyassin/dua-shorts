@@ -2183,5 +2183,29 @@
    "{benny} and friends smiling together"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_climb_91",
+  "title": "Benny's Big Climb 🏔️",
+  "theme": "moral",
+  "moral": "Never give up, keep trying.",
+  "lines": [
+   "Wow, a big mountain!",
+   "It's very steep.",
+   "Benny wants to climb.",
+   "He starts to walk.",
+   "But it's very hard.",
+   "Benny keeps going.",
+   "He reaches the top.",
+   "Never give up, keep trying."
+  ],
+  "scenes": [
+   "{benny} at mountain base",
+   "{benny} climbing mountain",
+   "{benny} resting on rock",
+   "{benny} near the top",
+   "{benny} at mountain top"
+  ],
+  "ai": true
  }
 ]
