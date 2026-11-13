@@ -2207,5 +2207,29 @@
    "{benny} at mountain top"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_saying_sorry_makes_friends_smile_92",
+  "title": "Saying Sorry Makes Friends Smile 😊",
+  "theme": "moral",
+  "moral": "Saying sorry makes friends smile.",
+  "lines": [
+   "Oh no, {benny} broke it!",
+   "He felt very bad.",
+   "He went to {adam}.",
+   "Said sorry with tears.",
+   "Hugged {adam} tightly.",
+   "{adam} smiled at {benny}.",
+   "They played again.",
+   "Saying sorry makes friends smile."
+  ],
+  "scenes": [
+   "{benny} holding broken toy",
+   "{benny} crying with {adam}",
+   "{benny} hugging {adam}",
+   "{adam} smiling at {benny}",
+   "{benny} and {adam} playing"
+  ],
+  "ai": true
  }
 ]
