@@ -2255,5 +2255,29 @@
    "{'image': '{benny} and {lina} smile'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_courageous_day_94",
+  "title": "Benny's Courageous Day 🦸",
+  "theme": "moral",
+  "moral": "Courage helps us try new things.",
+  "lines": [
+   "Something big happened today!",
+   "It was sunny outside.",
+   "Everyone felt happy.",
+   "They wanted to play.",
+   "But they were afraid.",
+   "Then {benny} tried it.",
+   "Now they all try.",
+   "Courage helps us try new things."
+  ],
+  "scenes": [
+   "{benny} standing in front of a big slide",
+   "{adam} and {maya} watching {benny}",
+   "{benny} climbing up the slide",
+   "{lina} cheering {benny} on",
+   "{benny} sliding down with a big smile"
+  ],
+  "ai": true
  }
 ]
