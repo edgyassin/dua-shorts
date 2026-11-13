@@ -2231,5 +2231,29 @@
    "{benny} and {adam} playing"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_helps_a_puppy_93",
+  "title": "Benny Helps a Puppy 🐶",
+  "theme": "moral",
+  "moral": "Being kind to animals is important",
+  "lines": [
+   "Oh no, a puppy is lost!",
+   "It is very scared",
+   "Needs help now",
+   "Must be kind",
+   "Help the puppy",
+   "Give it food",
+   "Make it happy",
+   "Kindness helps animals"
+  ],
+  "scenes": [
+   "{'image': '{benny} finds puppy'}",
+   "{'image': '{benny} and {lina} help puppy'}",
+   "{'image': '{benny} gives puppy food'}",
+   "{'image': '{lina} pets happy puppy'}",
+   "{'image': '{benny} and {lina} smile'}"
+  ],
+  "ai": true
  }
 ]
