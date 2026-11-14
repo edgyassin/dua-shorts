@@ -2303,5 +2303,29 @@
    "{adam} and {maya} smiling"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_courage_test_96",
+  "title": "Benny's Courage Test 🦸",
+  "theme": "moral",
+  "moral": "Courage helps us try new things.",
+  "lines": [
+   "Something big is coming!",
+   "It's a big hill.",
+   "Benny is nervous.",
+   "He takes a breath.",
+   "And starts to climb.",
+   "He reaches the top.",
+   "Everyone cheers.",
+   "Courage helps us try new things."
+  ],
+  "scenes": [
+   "{benny} stands before hill",
+   "{benny} climbs the hill",
+   "{benny} reaches the top",
+   "{adam} and {maya} cheer",
+   "{benny} smiles proudly"
+  ],
+  "ai": true
  }
 ]
