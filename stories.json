@@ -2327,5 +2327,29 @@
    "{benny} smiles proudly"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_courage_97",
+  "title": "Benny's Big Courage 🦸",
+  "theme": "moral",
+  "moral": "Courage helps us face our fears.",
+  "lines": [
+   "Something big is coming!",
+   "It's very loud.",
+   "Everyone is scared.",
+   "But {benny} is brave.",
+   "He stands up tall.",
+   "Others join {benny}.",
+   "Together they face it.",
+   "Courage helps us face our fears."
+  ],
+  "scenes": [
+   "{benny} looks up.",
+   "{adam} and {maya} hide.",
+   "{benny} stands tall.",
+   "{lina} joins {benny}.",
+   "{benny} and friends smile."
+  ],
+  "ai": true
  }
 ]
