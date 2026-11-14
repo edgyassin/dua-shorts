@@ -2279,5 +2279,29 @@
    "{benny} sliding down with a big smile"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_shares_with_friends_95",
+  "title": "Benny Shares with Friends 🐰",
+  "theme": "moral",
+  "moral": "Sharing makes everyone happy.",
+  "lines": [
+   "Benny found a big box!",
+   "It was full of toys.",
+   "He wanted to play.",
+   "But {benny} felt sad.",
+   "His friends had none.",
+   "So {benny} shared his.",
+   "Now {adam} and {maya} smile.",
+   "Sharing makes everyone happy."
+  ],
+  "scenes": [
+   "{benny} with a big box",
+   "{benny} playing alone",
+   "{benny} with {adam} and {maya}",
+   "{benny} sharing toys",
+   "{adam} and {maya} smiling"
+  ],
+  "ai": true
  }
 ]
