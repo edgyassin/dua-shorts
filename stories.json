@@ -2351,5 +2351,29 @@
    "{benny} and friends smile."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_never_quits_98",
+  "title": "Benny Never Quits 🏋️",
+  "theme": "moral",
+  "moral": "Never give up when trying something new.",
+  "lines": [
+   "Something big is happening!",
+   "It is a big hill.",
+   "Climbing is hard.",
+   "Keep going up.",
+   "You are almost there.",
+   "The view is amazing.",
+   "Feel proud of yourself.",
+   "Never give up when trying something new."
+  ],
+  "scenes": [
+   "{'image': '{benny} at the bottom of a hill'}",
+   "{'image': '{benny} climbing the hill'}",
+   "{'image': '{benny} looking tired'}",
+   "{'image': '{benny} almost at the top'}",
+   "{'image': '{benny} at the top with a big smile'}"
+  ],
+  "ai": true
  }
 ]
