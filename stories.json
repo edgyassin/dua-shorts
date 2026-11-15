@@ -2399,5 +2399,29 @@
    "{benny} smiling proudly"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_courageous_jump_100",
+  "title": "Benny's Courageous Jump 🦸",
+  "theme": "moral",
+  "moral": "Courage helps us overcome fears.",
+  "lines": [
+   "Suddenly, {benny} faces a big hill.",
+   "He wants to climb it.",
+   "But he feels scared.",
+   "His friend {adam} encourages him.",
+   "He takes a deep breath.",
+   "And starts to climb.",
+   "Reaching the top feels great.",
+   "Courage helps us overcome fears."
+  ],
+  "scenes": [
+   "{benny} stands before a big hill.",
+   "{benny} and {adam} talk at the hill.",
+   "{benny} climbs the hill with {adam}.",
+   "{benny} reaches the top with {adam}.",
+   "{benny} smiles at the top."
+  ],
+  "ai": true
  }
 ]
