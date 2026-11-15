@@ -2375,5 +2375,29 @@
    "{'image': '{benny} at the top with a big smile'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_try_99",
+  "title": "Benny's Big Try 🏋️",
+  "theme": "moral",
+  "moral": "Not giving up leads to success.",
+  "lines": [
+   "Something exciting happened",
+   "Today is challenge day",
+   "Run very fast now",
+   "Keep trying every day",
+   "Feel happy and proud",
+   "Learn from every fall",
+   "Get up and try",
+   "Not giving up leads"
+  ],
+  "scenes": [
+   "{benny} running outside",
+   "{adam} and {maya} watching",
+   "{benny} jumping high",
+   "{lina} cheering loudly",
+   "{benny} smiling proudly"
+  ],
+  "ai": true
  }
 ]
