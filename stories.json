@@ -2423,5 +2423,29 @@
    "{benny} smiles at the top."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_loves_pets_101",
+  "title": "Benny Loves Pets 🐰",
+  "theme": "moral",
+  "moral": "Being kind to animals is important",
+  "lines": [
+   "Oh no, a kitten is stuck!",
+   "The sun is setting fast.",
+   "It needs help now.",
+   "Someone must save it.",
+   "We must be kind always.",
+   "Helping animals is a must.",
+   "It makes them happy too.",
+   "Being kind to animals is important"
+  ],
+  "scenes": [
+   "{'image': '{benny} sees kitten stuck'}",
+   "{'image': '{benny} and {lina} run together'}",
+   "{'image': '{benny} and {lina} save kitten'}",
+   "{'image': '{benny} and {lina} pet kitten'}",
+   "{'image': '{benny} smiles with happy kitten'}"
+  ],
+  "ai": true
  }
 ]
