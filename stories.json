@@ -2447,5 +2447,29 @@
    "{'image': '{benny} smiles with happy kitten'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_friends_work_together_102",
+  "title": "Friends Work Together 🤝",
+  "theme": "moral",
+  "moral": "Teamwork helps achieve big goals.",
+  "lines": [
+   "Something big is happening!",
+   "Friends are gathering.",
+   "They have a plan.",
+   "Working together is fun.",
+   "Everyone contributes.",
+   "Progress is being made.",
+   "Challenges are overcome.",
+   "Teamwork helps achieve big goals."
+  ],
+  "scenes": [
+   "{benny} and {adam} standing together.",
+   "{maya} and {lina} joining them.",
+   "{benny} and friends discussing plans.",
+   "{adam} and friends working together.",
+   "{maya} and {lina} celebrating success."
+  ],
+  "ai": true
  }
 ]
