@@ -2519,5 +2519,29 @@
    "{benny} hugging friends"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_kind_gift_105",
+  "title": "Benny's Kind Gift 🎁",
+  "theme": "moral",
+  "moral": "Kindness makes everyone happy",
+  "lines": [
+   "Something special happened today",
+   "Benny felt happy inside",
+   "He wanted to share joy",
+   "With his friends at school",
+   "They would all smile together",
+   "Benny packed a surprise",
+   "For his friend {adam}",
+   "Kindness makes everyone happy"
+  ],
+  "scenes": [
+   "{benny} in a sunny meadow",
+   "{benny} with a big box",
+   "{adam} and {benny} playing",
+   "{maya} and {lina} watching",
+   "{benny} and friends laughing"
+  ],
+  "ai": true
  }
 ]
