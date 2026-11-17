@@ -2471,5 +2471,29 @@
    "{maya} and {lina} celebrating success."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_loves_pets_103",
+  "title": "Benny Loves Pets 🐰",
+  "theme": "moral",
+  "moral": "Being kind to animals is important.",
+  "lines": [
+   "Look, a puppy!",
+   "It is lost.",
+   "Let's help.",
+   "We are kind.",
+   "The puppy smiles.",
+   "Everyone is happy.",
+   "We made friends.",
+   "Kindness matters."
+  ],
+  "scenes": [
+   "{benny} finds puppy.",
+   "{adam} and {maya} help.",
+   "{lina} gives water.",
+   "{benny} and puppy play.",
+   "{benny} and friends smile."
+  ],
+  "ai": true
  }
 ]
