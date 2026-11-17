@@ -2543,5 +2543,29 @@
    "{benny} and friends laughing"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_shares_toys_106",
+  "title": "Benny Shares Toys 🎀",
+  "theme": "moral",
+  "moral": "Sharing makes everyone happy.",
+  "lines": [
+   "Something cool happened!",
+   "Benny got toys.",
+   "He wanted to play.",
+   "Friends came over.",
+   "They wanted toys.",
+   "Benny shared toys.",
+   "Everyone played together.",
+   "Sharing makes everyone happy."
+  ],
+  "scenes": [
+   "{'image': '{benny} holding toys'}",
+   "{'image': '{benny} playing alone'}",
+   "{'image': '{adam} and {maya} visiting {benny}'}",
+   "{'image': '{benny} sharing toys with {adam} and {maya}'}",
+   "{'image': '{benny}, {adam}, and {maya} playing together'}"
+  ],
+  "ai": true
  }
 ]
