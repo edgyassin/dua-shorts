@@ -2495,5 +2495,29 @@
    "{benny} and friends smile."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_friends_play_together_104",
+  "title": "Friends Play Together 🐰",
+  "theme": "moral",
+  "moral": "Friendship makes everyone happy.",
+  "lines": [
+   "Something fun happened!",
+   "Benny found friends.",
+   "They played outside.",
+   "Laughter filled air.",
+   "Everyone felt happy.",
+   "Smiles were everywhere.",
+   "Friends made day special.",
+   "Friendship makes everyone happy."
+  ],
+  "scenes": [
+   "{benny} running outside",
+   "{adam} and {maya} playing",
+   "{benny} and {lina} laughing",
+   "{benny} and friends smiling",
+   "{benny} hugging friends"
+  ],
+  "ai": true
  }
 ]
