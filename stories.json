@@ -2591,5 +2591,29 @@
    "{benny} at the top"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_says_sorry_108",
+  "title": "Benny Says Sorry 🐰",
+  "theme": "moral",
+  "moral": "Saying sorry makes friends happy",
+  "lines": [
+   "Oh no, {benny} hurt his friend!",
+   "He felt bad inside",
+   "He wanted to fix it",
+   "He thought of what to do",
+   "He chose to say sorry",
+   "His friend smiled again",
+   "They hugged each other",
+   "Saying sorry makes friends happy"
+  ],
+  "scenes": [
+   "{benny} and {adam} playing",
+   "{benny} accidentally hitting {adam}",
+   "{benny} looking sad and sorry",
+   "{benny} hugging {adam}",
+   "{benny} and {adam} smiling together"
+  ],
+  "ai": true
  }
 ]
