@@ -2615,5 +2615,29 @@
    "{benny} and {adam} smiling together"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_shares_treats_109",
+  "title": "Benny Shares Treats 🍪",
+  "theme": "moral",
+  "moral": "Sharing makes everyone happy.",
+  "lines": [
+   "Oh no, {benny} has no friends!",
+   "He finds a big cookie jar.",
+   "The jar is full of yummy treats.",
+   "He decides to share with {maya}.",
+   "She is so happy and thanks {benny}.",
+   "Now {benny} has a friend to play.",
+   "They share treats with {adam} too.",
+   "Sharing makes everyone happy."
+  ],
+  "scenes": [
+   "{benny} sitting alone in a park.",
+   "{benny} holding a big cookie jar.",
+   "{benny} and {maya} sharing treats.",
+   "{benny} and {maya} playing together.",
+   "{benny}, {maya}, and {adam} sharing treats."
+  ],
+  "ai": true
  }
 ]
