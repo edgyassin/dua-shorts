@@ -2567,5 +2567,29 @@
    "{'image': '{benny}, {adam}, and {maya} playing together'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_try_107",
+  "title": "Benny's Big Try 🏋️",
+  "theme": "moral",
+  "moral": "Never give up when trying something new.",
+  "lines": [
+   "Something big is happening!",
+   "It is a big hill.",
+   "Benny wants to climb.",
+   "He starts to climb.",
+   "He gets very tired.",
+   "But he keeps going.",
+   "He reaches the top.",
+   "Never give up when trying something new."
+  ],
+  "scenes": [
+   "{benny} at the hill",
+   "{benny} climbing",
+   "{benny} resting",
+   "{benny} smiling",
+   "{benny} at the top"
+  ],
+  "ai": true
  }
 ]
