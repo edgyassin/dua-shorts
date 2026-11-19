@@ -2639,5 +2639,29 @@
    "{benny}, {maya}, and {adam} sharing treats."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_grateful_heart_110",
+  "title": "Benny's Grateful Heart ❤️",
+  "theme": "moral",
+  "moral": "Being grateful makes us happy",
+  "lines": [
+   "Sunshine fills the sky",
+   "Birds sing happy songs",
+   "Children play outside",
+   "Laughing and having fun",
+   "Friends share their toys",
+   "Everyone feels happy",
+   "Smiling faces everywhere",
+   "Being grateful makes us happy"
+  ],
+  "scenes": [
+   "{benny} runs in a green field",
+   "{adam} and {maya} play with {benny}",
+   "{lina} joins the fun with a big smile",
+   "{benny} and friends share a big cake",
+   "{benny} hugs his friends tightly"
+  ],
+  "ai": true
  }
 ]
