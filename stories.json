@@ -2687,5 +2687,29 @@
    "{benny} and {adam} smiling"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_waits_patiently_112",
+  "title": "Benny Waits Patiently 🐰",
+  "theme": "moral",
+  "moral": "Patience helps us achieve our goals.",
+  "lines": [
+   "Something amazing is happening!",
+   "It takes a long time.",
+   "Waiting is hard.",
+   "But {benny} is patient.",
+   "He waits every day.",
+   "For a special surprise.",
+   "The surprise is coming.",
+   "Patience helps us achieve our goals."
+  ],
+  "scenes": [
+   "{benny} looks excited.",
+   "{benny} waits with {adam}.",
+   "{maya} and {lina} join {benny}.",
+   "{benny} and friends wait together.",
+   "{benny} sees the surprise."
+  ],
+  "ai": true
  }
 ]
