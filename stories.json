@@ -2663,5 +2663,29 @@
    "{benny} hugs his friends tightly"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_fun_day_at_beach_111",
+  "title": "Fun Day at Beach 🏖️",
+  "theme": "moral",
+  "moral": "Sharing is caring",
+  "lines": [
+   "Big wave crashes",
+   "Excited {benny} runs",
+   "Meets {adam} playing",
+   "Together they build",
+   "Find a lost toy",
+   "Return it happily",
+   "Make a new friend",
+   "Sharing is caring"
+  ],
+  "scenes": [
+   "{benny} at beach",
+   "{adam} building sandcastle",
+   "{benny} and {adam} together",
+   "{benny} and {adam} returning toy",
+   "{benny} and {adam} smiling"
+  ],
+  "ai": true
  }
 ]
