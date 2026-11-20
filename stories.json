@@ -2735,5 +2735,31 @@
    "{'image': '{benny} and friends hugging each other'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_wait_114",
+  "title": "Benny's Big Wait 🕰️",
+  "theme": "moral",
+  "moral": "Patience is a virtue that helps us achieve our goals.",
+  "lines": [
+   "Something exciting is coming!",
+   "It will take some time.",
+   "Be patient and wait.",
+   "Good things come slowly.",
+   "Wait and see what happens.",
+   "It's almost here, don't rush.",
+   "The wait is almost over.",
+   "Patience helps us achieve.",
+   "We learn and grow.",
+   "Patience is a virtue."
+  ],
+  "scenes": [
+   "{'image': '{benny} looking at clock'}",
+   "{'image': '{benny} and {adam} waiting'}",
+   "{'image': '{benny} reading book'}",
+   "{'image': '{benny} and {maya} playing'}",
+   "{'image': '{benny} smiling happily'}"
+  ],
+  "ai": true
  }
 ]
