@@ -2711,5 +2711,29 @@
    "{benny} sees the surprise."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_kind_surprise_113",
+  "title": "Benny's Kind Surprise 🎁",
+  "theme": "moral",
+  "moral": "Kindness makes everyone happy.",
+  "lines": [
+   "Something special happened today!",
+   "It was sunny outside.",
+   "Everyone felt happy.",
+   "They all played together.",
+   "They shared their toys.",
+   "Everyone smiled at each other.",
+   "They felt happy inside.",
+   "Kindness makes everyone happy."
+  ],
+  "scenes": [
+   "{'image': '{benny} playing with {adam} and {maya}'}",
+   "{'image': '{lina} joining {benny} and friends'}",
+   "{'image': '{benny} sharing toys with {adam}'}",
+   "{'image': '{maya} and {lina} smiling together'}",
+   "{'image': '{benny} and friends hugging each other'}"
+  ],
+  "ai": true
  }
 ]
