@@ -2761,5 +2761,29 @@
    "{'image': '{benny} smiling happily'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_fun_hike_115",
+  "title": "Benny's Fun Hike 🏞️",
+  "theme": "adventure",
+  "moral": "Exploring is fun with friends and patience.",
+  "lines": [
+   "Oh no, a big hill!",
+   "Up goes {benny}.",
+   "He meets {adam}.",
+   "Together they climb.",
+   "The view is nice.",
+   "They see {maya}.",
+   "All play together.",
+   "Patience is key."
+  ],
+  "scenes": [
+   "{benny} at hill.",
+   "{benny} and {adam} climbing.",
+   "{maya} joins them.",
+   "{benny} and friends playing.",
+   "{benny} and friends smiling."
+  ],
+  "ai": true
  }
 ]
