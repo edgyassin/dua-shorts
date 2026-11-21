@@ -2833,5 +2833,29 @@
    "{benny} hugs mom."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_kindness_chain_118",
+  "title": "Benny's Kindness Chain 🌈",
+  "theme": "moral",
+  "moral": "Kindness makes everyone happy",
+  "lines": [
+   "Something special happened",
+   "In a sunny meadow",
+   "Filled with happy friends",
+   "Playing together nicely",
+   "Sharing toys and smiles",
+   "Helping each other out",
+   "Feeling happy and proud",
+   "Kindness makes everyone happy"
+  ],
+  "scenes": [
+   "{benny} in a sunny meadow",
+   "{adam} and {maya} playing",
+   "{lina} sharing toys with {benny}",
+   "{benny} helping {adam}",
+   "{maya} and {lina} smiling together"
+  ],
+  "ai": true
  }
 ]
