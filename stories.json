@@ -2809,5 +2809,29 @@
    "{adam} smiling at {benny}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_helping_hands_117",
+  "title": "Helping Hands 🐰",
+  "theme": "moral",
+  "moral": "Helping parents makes them happy",
+  "lines": [
+   "Sunshine fills the room!",
+   "It's morning time.",
+   "Time to help.",
+   "Make parents happy.",
+   "Help with chores.",
+   "Make beds together.",
+   "Clean the floor.",
+   "Helping parents makes them happy"
+  ],
+  "scenes": [
+   "{benny} wakes up.",
+   "{adam} and {maya} help.",
+   "{benny} makes bed.",
+   "{lina} cleans floor.",
+   "{benny} hugs mom."
+  ],
+  "ai": true
  }
 ]
