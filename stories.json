@@ -2857,5 +2857,29 @@
    "{maya} and {lina} smiling together"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_courage_119",
+  "title": "Benny's Big Courage 🦸",
+  "theme": "moral",
+  "moral": "Courage helps us overcome fears.",
+  "lines": [
+   "Something big is coming!",
+   "It's very loud.",
+   "Everyone is scared.",
+   "But {benny} is brave.",
+   "He faces his fear.",
+   "And finds a solution.",
+   "Fear goes away now.",
+   "Courage helps us overcome fears."
+  ],
+  "scenes": [
+   "{benny} looks up at big cloud.",
+   "{adam} and {maya} run away.",
+   "{benny} stands still with {lina}.",
+   "{benny} smiles at the calm sky.",
+   "{benny} and friends play together."
+  ],
+  "ai": true
  }
 ]
