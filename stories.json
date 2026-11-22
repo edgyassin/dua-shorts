@@ -2905,5 +2905,29 @@
    "{'image': '{benny} hugging mom'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_fun_day_121",
+  "title": "Benny's Fun Day 🌞",
+  "theme": "moral",
+  "moral": "Sharing makes everyone happy",
+  "lines": [
+   "Suddenly sunshine filled",
+   "Benny felt happy",
+   "He saw {benny}",
+   "Playing with {adam}",
+   "They shared toys",
+   "Everyone was smiling",
+   "Friends felt happy",
+   "Sharing makes everyone happy"
+  ],
+  "scenes": [
+   "{benny} in a sunny meadow",
+   "{benny} and {adam} playing",
+   "{benny} sharing toys with {adam}",
+   "{adam} and {benny} laughing",
+   "{benny} and friends smiling together"
+  ],
+  "ai": true
  }
 ]
