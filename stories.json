@@ -2881,5 +2881,29 @@
    "{benny} and friends play together."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_helps_mom_120",
+  "title": "Benny Helps Mom 🐰",
+  "theme": "moral",
+  "moral": "Helping parents makes them happy",
+  "lines": [
+   "Benny sees mom struggling!",
+   "He wants to help her",
+   "Benny is very strong",
+   "He carries heavy bags",
+   "Mom is very thankful",
+   "Benny feels happy too",
+   "He learns to assist",
+   "Helping parents makes them happy"
+  ],
+  "scenes": [
+   "{'image': '{benny} holding a bag'}",
+   "{'image': '{benny} and mom carrying groceries'}",
+   "{'image': '{benny} putting away toys'}",
+   "{'image': '{benny} and mom cooking dinner'}",
+   "{'image': '{benny} hugging mom'}"
+  ],
+  "ai": true
  }
 ]
