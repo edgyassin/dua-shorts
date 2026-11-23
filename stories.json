@@ -2929,5 +2929,29 @@
    "{benny} and friends smiling together"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_honest_day_122",
+  "title": "Benny's Honest Day 🐰",
+  "theme": "moral",
+  "moral": "Honesty is always the best choice.",
+  "lines": [
+   "Something shiny caught {benny} eye.",
+   "He found a sparkly watch.",
+   "It wasn't his, so he thought.",
+   "He asked {adam} for help.",
+   "They looked for the owner.",
+   "The owner was very happy.",
+   "She thanked {benny} and {adam}.",
+   "Honesty is always the best choice."
+  ],
+  "scenes": [
+   "{benny} looking at watch.",
+   "{benny} and {adam} searching.",
+   "{benny} and {adam} talking.",
+   "{benny} returning watch.",
+   "{benny} smiling with {adam}."
+  ],
+  "ai": true
  }
 ]
