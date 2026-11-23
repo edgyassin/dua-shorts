@@ -2953,5 +2953,29 @@
    "{benny} smiling with {adam}."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_helps_friends_123",
+  "title": "Benny Helps Friends 🐰",
+  "theme": "moral",
+  "moral": "Being kind to animals is important.",
+  "lines": [
+   "Something special happened.",
+   "Benny saw animals.",
+   "They needed help.",
+   "Benny gave food.",
+   "Animals were happy.",
+   "Benny felt happy.",
+   "Benny helped friends.",
+   "Being kind to animals is important."
+  ],
+  "scenes": [
+   "{benny} in forest",
+   "{benny} with animals",
+   "{benny} giving food",
+   "{adam} and {maya} smiling",
+   "{benny} hugging animals"
+  ],
+  "ai": true
  }
 ]
