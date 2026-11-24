@@ -2977,5 +2977,29 @@
    "{benny} hugging animals"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_shares_toys_124",
+  "title": "Benny Shares Toys 🎀",
+  "theme": "moral",
+  "moral": "Sharing makes everyone happy.",
+  "lines": [
+   "Benny finds a box!",
+   "Toys are inside.",
+   "Friends want toys.",
+   "Benny shares toys.",
+   "Everyone is happy.",
+   "Toys bring joy.",
+   "Friends play together.",
+   "Sharing makes everyone happy."
+  ],
+  "scenes": [
+   "{'image': '{benny} finds box'}",
+   "{'image': '{benny} and {lina} play'}",
+   "{'image': '{benny} shares toys'}",
+   "{'image': '{adam} and {maya} smile'}",
+   "{'image': '{benny} and friends play'}"
+  ],
+  "ai": true
  }
 ]
