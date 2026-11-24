@@ -3001,5 +3001,29 @@
    "{'image': '{benny} and friends play'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_garden_growth_125",
+  "title": "Benny's Garden Growth 🌱",
+  "theme": "moral",
+  "moral": "Patience helps things grow.",
+  "lines": [
+   "Something amazing happened!",
+   "Benny planted seeds.",
+   "He watered every day.",
+   "Nothing happened yet.",
+   "Benny kept waiting.",
+   "Then sprouts appeared.",
+   "Benny was so happy.",
+   "Patience helps things grow."
+  ],
+  "scenes": [
+   "{benny} holding seeds",
+   "{benny} watering plants",
+   "{benny} waiting patiently",
+   "{benny} smiling at sprouts",
+   "{benny} happy in garden"
+  ],
+  "ai": true
  }
 ]
