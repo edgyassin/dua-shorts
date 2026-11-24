@@ -3025,5 +3025,29 @@
    "{benny} happy in garden"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_helps_animals_126",
+  "title": "Benny Helps Animals 🐰",
+  "theme": "moral",
+  "moral": "Being kind to animals is important.",
+  "lines": [
+   "Benny finds a hurt bird.",
+   "He wants to help.",
+   "Gently picks it up.",
+   "Takes it to his home.",
+   "Gives it food and water.",
+   "The bird gets better.",
+   "Benny is happy now.",
+   "Being kind to animals is important."
+  ],
+  "scenes": [
+   "{'image': '{benny} holding a bird'}",
+   "{'image': '{benny} and {lina} helping a dog'}",
+   "{'image': '{benny} giving food to a cat'}",
+   "{'image': '{benny} and {adam} playing with a puppy'}",
+   "{'image': '{benny} hugging a recovered bird'}"
+  ],
+  "ai": true
  }
 ]
