@@ -3073,5 +3073,29 @@
    "{benny} smiling proudly"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_try_128",
+  "title": "Benny's Big Try 🏋️",
+  "theme": "moral",
+  "moral": "Not giving up leads to success.",
+  "lines": [
+   "Something big happened!",
+   "Benny tried climbing.",
+   "He felt very tired.",
+   "Benny kept going up.",
+   "He reached the top.",
+   "Everyone cheered loudly.",
+   "Benny felt proud.",
+   "Not giving up leads to success."
+  ],
+  "scenes": [
+   "{'image': '{benny} at mountain base'}",
+   "{'image': '{benny} climbing mountain'}",
+   "{'image': '{benny} resting on mountain'}",
+   "{'image': '{benny} near mountain top'}",
+   "{'image': '{benny} at mountain top'}"
+  ],
+  "ai": true
  }
 ]
