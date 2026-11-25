@@ -3049,5 +3049,29 @@
    "{'image': '{benny} hugging a recovered bird'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_never_gives_up_127",
+  "title": "Benny Never Gives Up 🏋️",
+  "theme": "moral",
+  "moral": "Not giving up helps achieve goals.",
+  "lines": [
+   "Something big happened",
+   "At school today",
+   "Everyone excited",
+   "Ran very fast",
+   "Tried and tried",
+   "Got very tired",
+   "Kept on going",
+   "Reached the end"
+  ],
+  "scenes": [
+   "{benny} running with friends",
+   "{adam} and {maya} cheering",
+   "{benny} crossing finish line",
+   "{lina} giving high five",
+   "{benny} smiling proudly"
+  ],
+  "ai": true
  }
 ]
