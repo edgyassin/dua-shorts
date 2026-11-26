@@ -3169,5 +3169,29 @@
    "{benny} smiles at bird."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_friends_play_together_132",
+  "title": "Friends Play Together 🐰",
+  "theme": "moral",
+  "moral": "Friendship makes everyone happy.",
+  "lines": [
+   "Suddenly friends appear!",
+   "They run to the park.",
+   "They play on swings.",
+   "They laugh and spin.",
+   "They share their toys.",
+   "They take a break.",
+   "They have a picnic.",
+   "Friendship makes everyone happy."
+  ],
+  "scenes": [
+   "{benny} and {adam} running",
+   "{maya} and {lina} swinging",
+   "{benny} and {adam} laughing",
+   "{lina} and {maya} sharing",
+   "{benny} and friends eating"
+  ],
+  "ai": true
  }
 ]
