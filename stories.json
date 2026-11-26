@@ -3145,5 +3145,29 @@
    "{benny} playing with {adam}."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_loves_animals_131",
+  "title": "Benny Loves Animals 🐰",
+  "theme": "moral",
+  "moral": "Being kind to animals is important.",
+  "lines": [
+   "Oh no, a bird is hurt!",
+   "It fell from its nest.",
+   "Let's help the bird.",
+   "We need a box.",
+   "We made a cozy nest.",
+   "The bird is happy now.",
+   "We must care for animals.",
+   "Being kind to animals is important."
+  ],
+  "scenes": [
+   "{benny} finds a bird.",
+   "{adam} and {maya} help.",
+   "{benny} holds a box.",
+   "{lina} and {benny} care.",
+   "{benny} smiles at bird."
+  ],
+  "ai": true
  }
 ]
