@@ -3121,5 +3121,29 @@
    "{'image': '{benny} and friends hugging'}"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_sorry_smile_130",
+  "title": "Benny's Sorry Smile 😊",
+  "theme": "moral",
+  "moral": "Saying sorry makes everything okay.",
+  "lines": [
+   "Something broke!",
+   "It was {benny}'s fault.",
+   "He felt sad.",
+   "He said sorry.",
+   "His friend forgave.",
+   "They hugged.",
+   "They played again.",
+   "Saying sorry makes everything okay."
+  ],
+  "scenes": [
+   "{benny} holding a broken toy.",
+   "{benny} looking sad.",
+   "{benny} saying sorry.",
+   "{benny} hugging {adam}.",
+   "{benny} playing with {adam}."
+  ],
+  "ai": true
  }
 ]
