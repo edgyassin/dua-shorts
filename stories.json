@@ -3193,5 +3193,29 @@
    "{benny} and friends eating"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_friends_play_nice_133",
+  "title": "Friends Play Nice 🐰",
+  "theme": "moral",
+  "moral": "Friendship is about being kind to each other.",
+  "lines": [
+   "Oh no, {benny} fell down!",
+   "He hurt his knee.",
+   "Tears came out.",
+   "He felt sad.",
+   "Then {adam} came.",
+   "He helped {benny}.",
+   "They played together.",
+   "Friendship is about being kind to each other."
+  ],
+  "scenes": [
+   "{benny} playing alone.",
+   "{benny} crying on ground.",
+   "{adam} running to {benny}.",
+   "{adam} and {benny} hugging.",
+   "{adam} and {benny} playing together."
+  ],
+  "ai": true
  }
 ]
