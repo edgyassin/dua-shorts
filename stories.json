@@ -3241,5 +3241,29 @@
    "{benny} and {adam} smiling."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_kind_deed_135",
+  "title": "Benny's Kind Deed 🐰",
+  "theme": "islamic",
+  "moral": "Saying Bismillah and being kind is important",
+  "lines": [
+   "Magical day begins",
+   "Benny eats breakfast",
+   "Says Bismillah first",
+   "Feels happy inside",
+   "Helps {adam} and {maya}",
+   "Gives charity too",
+   "Feels grateful always",
+   "Kindness is key"
+  ],
+  "scenes": [
+   "{benny} wakes up smiling",
+   "{benny} eats with {lina}",
+   "{benny} helps {adam}",
+   "{benny} and {maya} play",
+   "{benny} gives to others"
+  ],
+  "ai": true
  }
 ]
