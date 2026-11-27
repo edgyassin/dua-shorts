@@ -3217,5 +3217,29 @@
    "{adam} and {benny} playing together."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_honesty_is_best_134",
+  "title": "Honesty is Best 🐰",
+  "theme": "moral",
+  "moral": "Honesty is always the best choice.",
+  "lines": [
+   "Something shiny caught {benny}'s eye.",
+   "He found a pretty coin.",
+   "It wasn't his, so he thought.",
+   "He asked {adam} for help.",
+   "They looked for the owner.",
+   "The owner was very happy.",
+   "He thanked {benny} and {adam}.",
+   "Honesty is always the best choice."
+  ],
+  "scenes": [
+   "{benny} looking at coin.",
+   "{benny} and {adam} searching.",
+   "{benny} and {adam} asking.",
+   "{benny} returning coin.",
+   "{benny} and {adam} smiling."
+  ],
+  "ai": true
  }
 ]
