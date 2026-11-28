@@ -3313,5 +3313,29 @@
    "{benny} and friends standing proud."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_teamwork_saves_day_138",
+  "title": "Teamwork Saves Day 🌞",
+  "theme": "moral",
+  "moral": "Teamwork helps achieve big goals.",
+  "lines": [
+   "Big storm coming!",
+   "Everyone must help.",
+   "Work together now.",
+   "Fix the broken bridge.",
+   "Build a new path.",
+   "Help each other out.",
+   "Smile at good work.",
+   "Teamwork is key."
+  ],
+  "scenes": [
+   "{benny} and {adam} running.",
+   "{maya} and {lina} helping.",
+   "{benny} and {adam} building.",
+   "{maya} and {lina} smiling.",
+   "{benny} and friends celebrating."
+  ],
+  "ai": true
  }
 ]
