@@ -3265,5 +3265,29 @@
    "{benny} gives to others"
   ],
   "ai": true
+ },
+ {
+  "id": "ai_friends_make_everything_better_136",
+  "title": "Friends Make Everything Better 🐰",
+  "theme": "moral",
+  "moral": "Friendship makes life more fun and exciting.",
+  "lines": [
+   "Something exciting happened today!",
+   "It was sunny outside.",
+   "The park was open.",
+   "Children were playing.",
+   "Toys were everywhere.",
+   "Laughter filled the air.",
+   "Everyone was happy.",
+   "Friendship makes life more fun and exciting."
+  ],
+  "scenes": [
+   "{benny} and {adam} running together.",
+   "{maya} and {lina} playing tag.",
+   "{benny} and {adam} sharing toys.",
+   "{maya} and {lina} having a picnic.",
+   "{benny} and friends laughing together."
+  ],
+  "ai": true
  }
 ]
