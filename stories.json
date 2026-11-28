@@ -3289,5 +3289,29 @@
    "{benny} and friends laughing together."
   ],
   "ai": true
+ },
+ {
+  "id": "ai_benny_s_big_leap_137",
+  "title": "Benny's Big Leap 🦸",
+  "theme": "moral",
+  "moral": "Courage helps us try new things.",
+  "lines": [
+   "Suddenly, {benny} jumped high.",
+   "He felt very happy.",
+   "He wanted to try again.",
+   "His friends cheered loudly.",
+   "They all jumped together.",
+   "They jumped over a hill.",
+   "They felt proud and strong.",
+   "Courage helps us try new things."
+  ],
+  "scenes": [
+   "{benny} jumping high in a green field.",
+   "{benny} smiling with friends.",
+   "{benny} and friends running to a hill.",
+   "{benny} and friends jumping together.",
+   "{benny} and friends standing proud."
+  ],
+  "ai": true
  }
 ]
